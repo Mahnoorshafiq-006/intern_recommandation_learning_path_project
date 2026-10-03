@@ -1,0 +1,1001 @@
+course_id,course_title,category,sub_category,course_type,level,duration_hours,rating,num_viewers,url
+0,Programming for Everybody (Getting Started with Python),Computer Science,Software Development,Course,Intermediate,19.0,4.8,220747.0,https://www.coursera.org/learn/python
+1,Python for Everybody Specialization,Computer Science,Software Development,Specialization,Advanced,160.0,4.8,202757.0,https://www.coursera.org/specializations/python
+2,Google IT Support Professional Certificate,Information Technology,Support and Operations,Professional Certificate,Advanced,120.0,4.8,157785.0,https://www.coursera.org/professional-certificates/google-it-support
+3,Technical Support Fundamentals,Information Technology,Support and Operations,Course,Intermediate,21.0,4.8,136391.0,https://www.coursera.org/learn/technical-support-fundamentals
+4,Deep Learning Specialization,Data Science,Machine Learning,Specialization,Advanced,100.0,4.9,129253.0,https://www.coursera.org/specializations/deep-learning
+5,Neural Networks and Deep Learning,Data Science,Machine Learning,Course,Intermediate,24.0,4.9,118113.0,https://www.coursera.org/learn/neural-networks-deep-learning
+6,Google Data Analytics Professional Certificate,Data Science,Data Analysis,Professional Certificate,Advanced,120.0,4.8,108885.0,https://www.coursera.org/professional-certificates/google-data-analytics
+7,COVID-19 Contact Tracing,Health,Public Health,Course,Beginner,6.0,4.9,94844.0,https://www.coursera.org/learn/covid-19-contact-tracing
+8,Python Data Structures,Computer Science,Software Development,Course,Intermediate,19.0,4.9,92485.0,https://www.coursera.org/learn/python-data
+9,Learning How to Learn: Powerful mental tools to help you master tough subjects,Personal Development,Personal Development,Course,Intermediate,15.0,4.8,86413.0,https://www.coursera.org/learn/learning-how-to-learn
+10,"Foundations: Data, Data, Everywhere",Data Science,Data Analysis,Course,Intermediate,22.0,4.8,79775.0,https://www.coursera.org/learn/foundations-data
+11,Google Project Management: Professional Certificate,Business,Leadership and Management,Professional Certificate,Advanced,120.0,4.9,78380.0,https://www.coursera.org/professional-certificates/google-project-management
+12,IBM Data Science Professional Certificate,Data Science,Data Analysis,Professional Certificate,Advanced,100.0,4.6,62528.0,https://www.coursera.org/professional-certificates/ibm-data-science
+13,Foundations of Project Management,Business,Leadership and Management,Course,Intermediate,18.0,4.9,62503.0,https://www.coursera.org/learn/project-management-foundations
+14,What is Data Science? ,Data Science,Data Analysis,Course,Beginner,7.0,4.7,62499.0,https://www.coursera.org/learn/what-is-datascience
+15,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",Data Science,Machine Learning,Course,Intermediate,23.0,4.9,61980.0,https://www.coursera.org/learn/deep-neural-network
+16,Google UX Design Professional Certificate,Computer Science,Design and Product,Professional Certificate,Advanced,120.0,4.8,61603.0,https://www.coursera.org/professional-certificates/google-ux-design
+17,Foundations of User Experience (UX) Design,Computer Science,Design and Product,Course,Intermediate,18.0,4.8,51969.0,https://www.coursera.org/learn/foundations-user-experience-design
+18,Structuring Machine Learning Projects,Data Science,Data Analysis,Course,Beginner,6.0,4.8,49034.0,https://www.coursera.org/learn/machine-learning-projects
+19,First Step Korean,Language Learning,Other Languages,Course,Intermediate,17.0,4.9,46904.0,https://www.coursera.org/learn/learn-korean
+20,Google Cloud Fundamentals: Core Infrastructure,Information Technology,Cloud Computing,Course,Beginner,8.0,4.7,46791.0,https://www.coursera.org/learn/gcp-fundamentals
+21,Excel Skills for Business: Essentials,Business,Business Essentials,Course,Intermediate,26.0,4.9,46077.0,https://www.coursera.org/learn/excel-essentials
+22,The Bits and Bytes of Computer Networking,Information Technology,Networking,Course,Intermediate,27.0,4.7,43556.0,https://www.coursera.org/learn/computer-networking
+23,Using Python to Access Web Data,Computer Science,Software Development,Course,Intermediate,19.0,4.8,43251.0,https://www.coursera.org/learn/python-network-data
+24,Excel Skills for Business Specialization,Business,Business Essentials,Specialization,Advanced,120.0,4.9,42571.0,https://www.coursera.org/specializations/excel
+25,Convolutional Neural Networks,Data Science,Machine Learning,Course,Intermediate,36.0,4.9,41376.0,https://www.coursera.org/learn/convolutional-neural-networks
+26,Data Science Specialization,Data Science,Data Analysis,Specialization,Advanced,220.0,4.5,38510.0,https://www.coursera.org/specializations/jhu-data-science
+27,AI For Everyone,Business,Business Strategy,Course,Beginner,10.0,4.8,38101.0,https://www.coursera.org/learn/ai-for-everyone
+28,The Science of Well-Being,Personal Development,Personal Development,Course,Intermediate,19.0,4.9,35898.0,https://www.coursera.org/learn/the-science-of-well-being
+29,The Data Scientist’s Toolbox,Data Science,Data Analysis,Course,Intermediate,18.0,4.6,33604.0,https://www.coursera.org/learn/data-scientists-tools?specialization=data-science-foundations-r
+30,Google IT Automation with Python Professional Certificate,Information Technology,Support and Operations,Professional Certificate,Advanced,120.0,4.9,32105.0,https://www.coursera.org/professional-certificates/google-it-automation
+31,"Python for Data Science, AI & Development",Data Science,Data Analysis,Course,Intermediate,20.0,4.6,31403.0,https://www.coursera.org/learn/python-for-applied-data-science-ai
+32,Crash Course on Python,Information Technology,Support and Operations,Course,Intermediate,26.0,4.8,30746.0,https://www.coursera.org/learn/python-crash-course
+33,Sequence Models,Data Science,Machine Learning,Course,Intermediate,37.0,4.8,29226.0,https://www.coursera.org/learn/nlp-sequence-models
+34,Stanford Introduction to Food and Health,Health,Nutrition,Course,Beginner,6.0,4.7,28857.0,https://www.coursera.org/learn/food-and-health
+35,Introduction to HTML5,Computer Science,Mobile and Web Development,Course,Intermediate,13.0,4.7,26753.0,https://www.coursera.org/learn/html?specialization=web-design
+36,Introduction to Data Science in Python,Data Science,Data Analysis,Course,Intermediate,34.0,4.5,26596.0,https://www.coursera.org/learn/python-data-analysis
+37,Architecting with Google Compute Engine Specialization,Information Technology,Cloud Computing,Specialization,Advanced,100.0,4.7,26329.0,https://www.coursera.org/specializations/gcp-architecture
+38,Tools for Data Science,Data Science,Data Analysis,Course,Intermediate,17.0,4.5,26232.0,https://www.coursera.org/learn/open-source-tools-for-data-science
+39,Introduction to Psychology ,Health,Psychology,Course,Intermediate,14.0,4.9,25842.0,https://www.coursera.org/learn/introduction-psychology
+40,Applied Data Science with Python Specialization,Data Science,Data Analysis,Specialization,Advanced,100.0,4.5,25522.0,https://www.coursera.org/specializations/data-science-python
+41,Operating Systems and You: Becoming a Power User,Information Technology,Support and Operations,Course,Intermediate,33.0,4.7,24990.0,https://www.coursera.org/learn/os-power-user
+42,Financial Markets,Business,Finance,Course,Intermediate,33.0,4.8,24729.0,https://www.coursera.org/learn/financial-markets-global
+43,Web Design for Everybody: Basics of Web Development & Coding Specialization,Computer Science,Mobile and Web Development,Specialization,Advanced,120.0,4.8,24209.0,https://www.coursera.org/specializations/web-design
+44,Ask Questions to Make Data-Driven Decisions,Data Science,Data Analysis,Course,Intermediate,21.0,4.7,24198.0,https://www.coursera.org/learn/ask-questions-make-decisions
+45, System Administration and IT Infrastructure Services,Information Technology,Support and Operations,Course,Intermediate,25.0,4.7,22160.0,https://www.coursera.org/learn/system-administration-it-infrastructure-services
+46,R Programming,Data Science,Data Analysis,Course,Intermediate,57.0,4.5,22012.0,https://www.coursera.org/learn/r-programming?specialization=jhu-data-science
+47,Initiating and Planning Projects,Business,Leadership and Management,Course,Beginner,7.0,4.7,21788.0,https://www.coursera.org/learn/project-planning
+48,Indigenous Canada,Arts and Humanities,History,Course,Intermediate,21.0,4.8,21037.0,https://www.coursera.org/learn/indigenous-canada
+49,Using Databases with Python,Computer Science,Software Development,Course,Intermediate,14.0,4.8,20875.0,https://www.coursera.org/learn/python-databases
+50,DeepLearning.AI TensorFlow Developer Professional Certificate,Data Science,Machine Learning,Professional Certificate,Advanced,80.0,4.7,19996.0,https://www.coursera.org/professional-certificates/tensorflow-in-practice
+51, IT Security: Defense against the digital dark arts ,Information Technology,Security,Course,Intermediate,31.0,4.8,19135.0,https://www.coursera.org/learn/it-security
+52,Data Science Methodology,Data Science,Data Analysis,Course,Beginner,8.0,4.6,18923.0,https://www.coursera.org/learn/data-science-methodology
+53,Grammar and Punctuation,Language Learning,Learning English,Course,Intermediate,17.0,4.7,18688.0,https://www.coursera.org/learn/grammar-punctuation?specialization=academic-english
+54,Project Management Principles and Practices Specialization,Business,Business Essentials,Specialization,Advanced,100.0,4.7,18565.0,https://www.coursera.org/specializations/project-management
+55,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",Computer Science,Software Development,Course,Intermediate,17.0,4.8,18364.0,https://www.coursera.org/learn/introduction-tensorflow
+56,Psychological First Aid,Health,Psychology,Course,Beginner,6.0,4.8,18115.0,https://www.coursera.org/learn/psychological-first-aid
+57,Successful Negotiation: Essential Strategies and Skills,Business,Business Essentials,Course,Intermediate,17.0,4.8,18082.0,https://www.coursera.org/learn/negotiation-skills
+58,Databases and SQL for Data Science with Python,Data Science,Data Analysis,Course,Intermediate,39.0,4.6,17406.0,https://www.coursera.org/learn/sql-data-science
+59,Business Foundations Specialization,Business,Business Essentials,Specialization,Advanced,140.0,4.7,17404.0,https://www.coursera.org/specializations/wharton-business-foundations
+60,Introduction to Programming with MATLAB,Computer Science,Software Development,Course,Intermediate,35.0,4.8,16892.0,https://www.coursera.org/learn/matlab
+61,Marketing in a Digital World,Business,Marketing,Course,Intermediate,28.0,4.7,16749.0,https://www.coursera.org/learn/marketing-digital?specialization=digital-marketing
+62,Data Analysis with Python,Data Science,Data Analysis,Course,Intermediate,14.0,4.7,16505.0,https://www.coursera.org/learn/data-analysis-with-python
+63,Digital Marketing Specialization,Business,Marketing,Specialization,Advanced,160.0,4.6,16501.0,https://www.coursera.org/specializations/digital-marketing
+64,Essential Google Cloud Infrastructure: Foundation,Information Technology,Cloud Computing,Course,Beginner,7.0,4.7,16462.0,https://www.coursera.org/learn/gcp-infrastructure-foundation?specialization=gcp-architecture
+65,Python Basics,Computer Science,Software Development,Course,Intermediate,34.0,4.8,16316.0,https://www.coursera.org/learn/python-basics
+66,Write Professional Emails in English,Language Learning,Learning English,Course,Intermediate,13.0,4.8,16270.0,https://www.coursera.org/learn/professional-emails-english
+67,Fundamentals of Graphic Design,Arts and Humanities,Music and Art,Course,Intermediate,15.0,4.8,16200.0,https://www.coursera.org/learn/fundamentals-of-graphic-design
+68,Excel Skills for Business: Intermediate I,Business,Business Essentials,Course,Intermediate,27.0,4.9,15976.0,https://www.coursera.org/learn/excel-intermediate-1
+69,Python 3 Programming Specialization,Computer Science,Software Development,Specialization,Advanced,100.0,4.7,15871.0,https://www.coursera.org/specializations/python-3-programming
+70,Business Analytics Specialization,Data Science,Data Analysis,Specialization,Advanced,120.0,4.6,15725.0,https://www.coursera.org/specializations/business-analytics
+71,Google Cloud Big Data and Machine Learning Fundamentals,Data Science,Machine Learning,Course,Beginner,10.0,4.6,15528.0,https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-machine-learning
+72,Improve Your English Communication Skills Specialization,Language Learning,Learning English,Specialization,Advanced,100.0,4.8,15297.0,https://www.coursera.org/specializations/improve-english
+73,"HTML, CSS, and Javascript for Web Developers",Computer Science,Mobile and Web Development,Course,Intermediate,40.0,4.7,15248.0,https://www.coursera.org/learn/html-css-javascript-for-web-developers
+74,Graphic Design Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,120.0,4.7,15224.0,https://www.coursera.org/specializations/graphic-design
+75,"Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",Business,Business Essentials,Course,Beginner,10.0,4.5,14768.0,https://www.coursera.org/learn/work-smarter-not-harder?specialization=career-success
+76,SQL for Data Science,Data Science,Data Analysis,Course,Intermediate,14.0,4.6,14748.0,https://www.coursera.org/learn/sql-for-data-science
+77,Prepare Data for Exploration,Data Science,Data Analysis,Course,Intermediate,25.0,4.8,14449.0,https://www.coursera.org/learn/data-preparation
+78,Project Initiation: Starting a Successful Project,Business,Leadership and Management,Course,Intermediate,21.0,4.8,14399.0,https://www.coursera.org/learn/project-initiation-google
+79,"Programming Foundations with JavaScript, HTML and CSS",Computer Science,Mobile and Web Development,Course,Intermediate,33.0,4.6,14270.0,https://www.coursera.org/learn/duke-programming-web?specialization=java-programming
+80,Meta Social Media Marketing Professional Certificate,Business,Marketing,Professional Certificate,Advanced,140.0,4.9,14105.0,https://www.coursera.org/professional-certificates/facebook-social-media-marketing
+81,English for Career Development,Language Learning,Learning English,Course,Intermediate,40.0,4.8,14019.0,https://www.coursera.org/learn/careerdevelopment
+82,Career Success Specialization,Business,Business Essentials,Specialization,Advanced,220.0,4.6,14003.0,https://www.coursera.org/specializations/career-success
+83,Machine Learning with Python,Data Science,Machine Learning,Course,Beginner,12.0,4.7,13939.0,https://www.coursera.org/learn/machine-learning-with-python
+84,Java Programming and Software Engineering Fundamentals Specialization,Computer Science,Software Development,Specialization,Advanced,100.0,4.6,13832.0,https://www.coursera.org/specializations/java-programming
+85,Introduction to Cybersecurity Tools & Cyber Attacks,Information Technology,Cloud Computing,Course,Intermediate,16.0,4.6,13658.0,https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks
+86,Machine Learning Foundations: A Case Study Approach,Data Science,Machine Learning,Course,Intermediate,18.0,4.6,13247.0,https://www.coursera.org/learn/ml-foundations?specialization=machine-learning
+87,Google Digital Marketing & E-commerce Professional Certificate,Business,Marketing,Professional Certificate,Advanced,120.0,4.9,13099.0,https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce
+88,"Capstone: Retrieving, Processing, and Visualizing Data with Python",Data Science,Data Analysis,Course,Beginner,9.0,4.7,13055.0,https://www.coursera.org/learn/python-data-visualization?specialization=python
+89,Teach English Now! Foundational Principles,Social Sciences,Education,Course,Intermediate,20.0,4.9,13024.0,https://www.coursera.org/learn/english-principles
+90,Introduction to the Internet of Things and Embedded Systems,Computer Science,Software Development,Course,Beginner,11.0,4.7,12783.0,https://www.coursera.org/learn/iot?specialization=iot
+91,Data Structures and Algorithms Specialization,Computer Science,Algorithms,Specialization,Advanced,160.0,4.6,12782.0,https://www.coursera.org/specializations/data-structures-algorithms
+92,IBM Data Analyst Professional Certificate,Data Science,Data Analysis,Professional Certificate,Advanced,80.0,4.7,12767.0,https://www.coursera.org/professional-certificates/ibm-data-analyst
+93,Introduction to Marketing,Business,Marketing,Course,Beginner,10.0,4.8,12193.0,https://www.coursera.org/learn/wharton-marketing
+94,Algorithmic Toolbox,Computer Science,Algorithms,Course,Intermediate,40.0,4.6,12161.0,https://www.coursera.org/learn/algorithmic-toolbox
+95,An Introduction to Programming the Internet of Things (IOT) Specialization,Physical Science and Engineering,Electrical Engineering,Specialization,Advanced,120.0,4.7,11928.0,https://www.coursera.org/specializations/iot
+96,Academic English: Writing Specialization,Social Sciences,Education,Specialization,Advanced,120.0,4.8,11716.0,https://www.coursera.org/specializations/academic-english
+97,"Start the UX Design Process: Empathize, Define, and Ideate",Computer Science,Design and Product,Course,Intermediate,28.0,4.8,11376.0,https://www.coursera.org/learn/start-ux-design-process
+98,Customer Analytics,Business,Business Strategy,Course,Beginner,11.0,4.6,11354.0,https://www.coursera.org/learn/wharton-customer-analytics
+99,Essential Google Cloud Infrastructure: Core Services,Information Technology,Cloud Computing,Course,Beginner,11.0,4.7,11271.0,https://www.coursera.org/learn/gcp-infrastructure-core-services?specialization=gcp-architecture
+100,Excel to MySQL: Analytic Techniques for Business Specialization,Business,Business Essentials,Specialization,Advanced,140.0,4.6,11118.0,https://www.coursera.org/specializations/excel-mysql
+101,Data Science Math Skills,Math and Logic,Math and Logic,Course,Intermediate,13.0,4.5,11112.0,https://www.coursera.org/learn/datasciencemathskills
+102,Supply Chain Management Specialization,Business,Business Essentials,Specialization,Advanced,120.0,4.8,11037.0,https://www.coursera.org/specializations/supply-chain-management
+103,Introduction to Social Media Marketing,Business,Marketing,Course,Intermediate,15.0,4.8,11022.0,https://www.coursera.org/learn/social-media-marketing-introduction
+104,AWS Fundamentals Specialization,Information Technology,Cloud Computing,Specialization,Advanced,100.0,4.6,10966.0,https://www.coursera.org/specializations/aws-fundamentals
+105,Human Resource Management: HR for People Managers Specialization,Business,Business Strategy,Specialization,Advanced,120.0,4.8,10827.0,https://www.coursera.org/specializations/human-resource-management
+106,Project Management: The Basics for Success,Business,Leadership and Management,Course,Beginner,8.0,4.6,10639.0,https://www.coursera.org/learn/project-management-basics?specialization=career-success
+107,Soporte de Tecnologías de la Información de Google Professional Certificate,Information Technology,Support and Operations,Professional Certificate,Advanced,120.0,4.9,10582.0,https://www.coursera.org/professional-certificates/soporte-de-tecnologias-de-informacion-google
+108,Preparing for Google Cloud Certification: Cloud Architect Professional Certificate,Information Technology,Cloud Computing,Professional Certificate,Advanced,100.0,4.8,10403.0,https://www.coursera.org/professional-certificates/gcp-cloud-architect
+109,Search Engine Optimization (SEO) Specialization,Business,Marketing,Specialization,Advanced,100.0,4.7,10289.0,https://www.coursera.org/specializations/seo
+110,Foundations of Digital Marketing and E-commerce,Business,Marketing,Course,Intermediate,18.0,4.8,10101.0,https://www.coursera.org/learn/foundations-of-digital-marketing-and-e-commerce
+111,Supply Chain Logistics,Business,Business Essentials,Course,Beginner,8.0,4.8,9745.0,https://www.coursera.org/learn/supply-chain-logistics
+112,"Speak English Professionally: In Person, Online & On the Phone",Language Learning,Learning English,Course,Intermediate,16.0,4.7,9711.0,https://www.coursera.org/learn/speak-english-professionally
+113,Child Nutrition and Cooking,Health,Nutrition,Course,Beginner,11.0,4.8,9652.0,https://www.coursera.org/learn/childnutrition
+114,Primeros Auxilios Psicológicos (PAP),Health,Psychology,Course,Intermediate,15.0,4.8,9605.0,https://www.coursera.org/learn/pap
+115,Data Analysis and Presentation Skills: the PwC Approach Specialization,Business,Business Essentials,Specialization,Advanced,120.0,4.7,9541.0,https://www.coursera.org/specializations/pwc-analytics
+116,IBM Cybersecurity Analyst Professional Certificate,Information Technology,Security,Professional Certificate,Intermediate,60.0,4.6,9522.0,https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
+117,Introduction to Google SEO,Business,Marketing,Course,Intermediate,13.0,4.6,9506.0,https://www.coursera.org/learn/search-engine-optimization
+118,"TESOL Certificate, Part 1: Teach English Now! Specialization",Language Learning,Learning English,Specialization,Advanced,120.0,4.9,9201.0,https://www.coursera.org/specializations/tesol
+119,Introduction to CSS3,Computer Science,Mobile and Web Development,Course,Beginner,11.0,4.8,9187.0,https://www.coursera.org/learn/introcss?specialization=web-design
+120,Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate,Information Technology,Cloud Computing,Professional Certificate,Advanced,120.0,4.8,9151.0,https://www.coursera.org/professional-certificates/cloud-engineering-gcp
+121,Elastic Google Cloud Infrastructure: Scaling and Automation,Information Technology,Cloud Computing,Course,Beginner,7.0,4.7,9063.0,https://www.coursera.org/learn/gcp-infrastructure-scaling-automation?specialization=gcp-architecture
+122,Introduction to Philosophy,Arts and Humanities,Philosophy,Course,Intermediate,19.0,4.7,8796.0,https://www.coursera.org/learn/philosophy
+123,Software Product Management Specialization,Computer Science,Design and Product,Specialization,Advanced,120.0,4.7,8428.0,https://www.coursera.org/specializations/product-management
+124,Functional Programming Principles in Scala,Computer Science,Software Development,Course,Intermediate,56.0,4.8,8190.0,https://www.coursera.org/learn/scala-functional-programming?specialization=scala
+125,Developing Applications with Google Cloud Specialization,Computer Science,Software Development,Specialization,Advanced,120.0,4.7,7991.0,https://www.coursera.org/specializations/developing-apps-gcp
+126,Agile with Atlassian Jira,Computer Science,Software Development,Course,Beginner,12.0,4.7,7841.0,https://www.coursera.org/learn/agile-atlassian-jira
+127,Meta Front-End Developer Professional Certificate,Computer Science,移动和网络开发,Professional Certificate,Advanced,140.0,4.7,7699.0,https://www.coursera.org/professional-certificates/meta-front-end-developer
+128,Java Programming: Solving Problems with Software,Computer Science,Software Development,Course,Intermediate,17.0,4.6,7635.0,https://www.coursera.org/learn/java-programming?specialization=object-oriented-programming
+129,Writing in the Sciences,Health,Basic Science,Course,Intermediate,30.0,4.9,7624.0,https://www.coursera.org/learn/sciwrite
+130,Introduction to User Experience Design ,Computer Science,Design and Product,Course,Beginner,6.0,4.5,7610.0,https://www.coursera.org/learn/user-experience-design
+131,Introduction to Software Product Management,Computer Science,Design and Product,Course,Beginner,4.0,4.6,7331.0,https://www.coursera.org/learn/introduction-to-software-product-management?specialization=product-management
+132,Blockchain Basics,Computer Science,Software Development,Course,Intermediate,15.0,4.6,7274.0,https://www.coursera.org/learn/blockchain-basics?specialization=blockchain
+133,Electric Power Systems,Physical Science and Engineering,Electrical Engineering,Course,Beginner,12.0,4.7,7146.0,https://www.coursera.org/learn/electric-power-systems?specialization=energy-industry
+134,Reliable Google Cloud Infrastructure: Design and Process,Information Technology,Cloud Computing,Course,Beginner,8.0,4.7,7124.0,https://www.coursera.org/learn/cloud-infrastructure-design-process?specialization=gcp-architecture
+135,Wind Energy,Physical Science and Engineering,Mechanical Engineering,Course,Intermediate,35.0,4.7,6936.0,https://www.coursera.org/learn/wind-energy
+136,Introduction to the Biology of Cancer,Health,Basic Science,Course,Beginner,8.0,4.8,6932.0,https://www.coursera.org/learn/cancer?specialization=cancer-biology
+137,Understanding Research Methods,Physical Science and Engineering,Research Methods,Course,Beginner,5.0,4.6,6674.0,https://www.coursera.org/learn/research-methods
+138,Architecting with Google Kubernetes Engine Specialization,Information Technology,Cloud Computing,Specialization,Advanced,80.0,4.7,6484.0,https://www.coursera.org/specializations/architecting-google-kubernetes-engine
+139,Teach English Now! Theories of Second Language Acquisition,Social Sciences,Education,Course,Intermediate,17.0,4.9,6381.0,https://www.coursera.org/learn/language-theories?specialization=tesol
+140,UI / UX Design Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,80.0,4.7,6349.0,https://www.coursera.org/specializations/ui-ux-design
+141,Modern Art & Ideas,Arts and Humanities,Music and Art,Course,Intermediate,13.0,4.8,6097.0,https://www.coursera.org/learn/modern-art-ideas
+142,Vital Signs: Understanding What the Body Is Telling Us,Health,Patient Care,Course,Intermediate,13.0,4.8,5805.0,https://www.coursera.org/learn/vital-signs
+143,Feminism and Social Justice,Arts and Humanities,History,Course,Beginner,8.0,4.8,5779.0,https://www.coursera.org/learn/feminism-social-justice
+144,Positive Psychology ,Health,Psychology,Course,Beginner,11.0,4.7,5725.0,https://www.coursera.org/learn/positive-psychology
+145,Positive Psychology: Martin E. P. Seligman’s Visionary Science,Health,Psychology,Course,Intermediate,16.0,4.9,5529.0,https://www.coursera.org/learn/positive-psychology-visionary-science
+146,Visual Elements of User Interface Design,Arts and Humanities,Music and Art,Course,Intermediate,16.0,4.7,5482.0,https://www.coursera.org/learn/visual-elements-user-interface-design
+147,Oil & Gas Industry Operations and Markets ,Physical Science and Engineering,Environmental Science and Sustainability,Course,Beginner,7.0,4.8,5456.0,https://www.coursera.org/learn/oilandgas
+148,Using Python to Interact with the Operating System,Information Technology,Support and Operations,Course,Intermediate,25.0,4.7,5444.0,https://www.coursera.org/learn/python-operating-system
+149,"Energy Production, Distribution & Safety Specialization",Physical Science and Engineering,Electrical Engineering,Specialization,Advanced,80.0,4.7,5440.0,https://www.coursera.org/specializations/energy-industry
+150,Mathematics for Machine Learning: Multivariate Calculus,Math and Logic,Math and Logic,Course,Intermediate,17.0,4.7,5397.0,https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning
+151,Moral Foundations of Politics ,Social Sciences,Governance and Society,Course,Intermediate,44.0,4.9,5377.0,https://www.coursera.org/learn/moral-politics
+152,Introduction to Typography,Arts and Humanities,Music and Art,Course,Beginner,8.0,4.8,5330.0,https://www.coursera.org/learn/typography?specialization=graphic-design
+153,Fundamentals of GIS,Physical Science and Engineering,Environmental Science and Sustainability,Course,Intermediate,30.0,4.8,5234.0,https://www.coursera.org/learn/gis
+154,Nutrición y obesidad: control de sobrepeso,Health,Nutrition,Course,Beginner,10.0,4.8,5194.0,https://www.coursera.org/learn/nutricion-obesidad-sobrepeso
+155,Arizona State University TESOL Professional Certificate,Language Learning,Learning English,Professional Certificate,Advanced,240.0,4.9,5063.0,https://www.coursera.org/professional-certificates/arizona-state-university-tesol
+156,Photography Basics and Beyond: From Smartphone to DSLR Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,120.0,4.8,5034.0,https://www.coursera.org/specializations/photography-basics
+157,IT Fundamentals for Cybersecurity Specialization,Information Technology,Security,Specialization,Advanced,100.0,4.6,4996.0,https://www.coursera.org/specializations/it-fundamentals-cybersecurity
+158,"Cameras, Exposure, and Photography",Arts and Humanities,Music and Art,Course,Intermediate,19.0,4.8,4959.0,https://www.coursera.org/learn/exposure-photography?specialization=photography-basics
+159,"Cybersecurity Roles, Processes & Operating System Security",Information Technology,Security,Course,Beginner,10.0,4.6,4824.0,https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security
+160,Creative Writing Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,120.0,4.7,4819.0,https://www.coursera.org/specializations/creative-writing
+161,Introduction to Psychology,Health,Psychology,Course,Intermediate,22.0,4.9,4813.0,https://www.coursera.org/learn/introduction-psych
+162,Animal Behaviour and Welfare,Health,Animal Health,Course,Beginner,9.0,4.8,4718.0,https://www.coursera.org/learn/animal-welfare
+163,Introduction to Engineering Mechanics,Physical Science and Engineering,Mechanical Engineering,Course,Intermediate,15.0,4.8,4656.0,https://www.coursera.org/learn/engineering-mechanics-statics
+164,Introductory Human Physiology,Health,Basic Science,Course,Intermediate,34.0,4.8,4601.0,https://www.coursera.org/learn/physiology
+165,Social Psychology,Health,Psychology,Course,Intermediate,37.0,4.7,4559.0,https://www.coursera.org/learn/social-psychology
+166,Creative Writing: The Craft of Plot,Arts and Humanities,Music and Art,Course,Beginner,5.0,4.7,4547.0,https://www.coursera.org/learn/craft-of-plot
+167,An Introduction to American Law,Social Sciences,Law,Course,Beginner,11.0,4.8,4512.0,https://www.coursera.org/learn/american-law
+168,English for Business and Entrepreneurship,Language Learning,Learning English,Course,Intermediate,31.0,4.8,4491.0,https://www.coursera.org/learn/business
+169,Étudier en France: French Intermediate course B1-B2,Language Learning,Other Languages,Course,Intermediate,46.0,4.8,4468.0,https://www.coursera.org/learn/etudier-en-france
+170,Dog Emotion and Cognition,Health,Animal Health,Course,Intermediate,22.0,4.7,4401.0,https://www.coursera.org/learn/dog-emotion-and-cognition
+171,Networking in Google Cloud Specialization,Information Technology,Networking,Specialization,Advanced,120.0,4.8,4384.0,https://www.coursera.org/specializations/networking-google-cloud-platform
+172,Game Theory,Social Sciences,Economics,Course,Intermediate,17.0,4.6,4369.0,https://www.coursera.org/learn/game-theory-1
+173,Global Diplomacy – Diplomacy in the Modern World,Social Sciences,Governance and Society,Course,Intermediate,13.0,4.7,4348.0,https://www.coursera.org/learn/global-diplomacy
+174,Suporte em TI do Google Professional Certificate,Information Technology,Operações e suporte,Professional Certificate,Advanced,120.0,4.9,4338.0,https://www.coursera.org/professional-certificates/suporte-em-ti-do-google
+175,Science of Exercise,Health,Basic Science,Course,Beginner,9.0,4.8,4295.0,https://www.coursera.org/learn/science-exercise
+176,Teach English Now! Lesson Design and Assessment,Social Sciences,Education,Course,Intermediate,21.0,4.9,4243.0,https://www.coursera.org/learn/lesson-design?specialization=tesol
+177,Seeing Through Photographs,Arts and Humanities,Music and Art,Course,Intermediate,17.0,4.8,4221.0,https://www.coursera.org/learn/photography?specialization=modern-contemporary-art-design
+178,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",Social Sciences,Governance and Society,Course,Beginner,10.0,4.8,4165.0,https://www.coursera.org/learn/global-sustainable-development
+179,Design and Interpretation of Clinical Trials,Health,Research,Course,Beginner,10.0,4.7,4133.0,https://www.coursera.org/learn/clinical-trials
+180,Matrix Algebra for Engineers,Math and Logic,Math and Logic,Course,Intermediate,19.0,4.9,3957.0,https://www.coursera.org/learn/matrix-algebra-engineers?specialization=mathematics-engineers
+181,Methods and Statistics in Social Sciences Specialization,Social Sciences,Governance and Society,Specialization,Advanced,200.0,4.6,3953.0,https://www.coursera.org/specializations/social-science
+182,Security in Google Cloud Specialization,Information Technology,Security,Specialization,Advanced,120.0,4.7,3827.0,https://www.coursera.org/specializations/security-google-cloud-platform
+183,Interfacing with the Arduino,Physical Science and Engineering,Electrical Engineering,Course,Beginner,11.0,4.7,3821.0,https://www.coursera.org/learn/interface-with-arduino?specialization=iot
+184,Learn English: Intermediate Grammar Specialization,Language Learning,Learning English,Specialization,Advanced,100.0,4.8,3820.0,https://www.coursera.org/specializations/intermediate-grammar
+185,Creative Thinking: Techniques and Tools for Success,Personal Development,Personal Development,Course,Intermediate,19.0,4.7,3814.0,https://www.coursera.org/learn/creative-thinking-techniques-and-tools-for-success
+186,CAD and Digital Manufacturing Specialization,Physical Science and Engineering,Mechanical Engineering,Specialization,Advanced,120.0,4.7,3730.0,https://www.coursera.org/specializations/cad-design-digital-manufacturing
+187,Perfect Tenses and Modals,Language Learning,Learning English,Course,Intermediate,28.0,4.8,3694.0,https://www.coursera.org/learn/perfect-tenses-modals?specialization=intermediate-grammar
+188,Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360,Physical Science and Engineering,Mechanical Engineering,Course,Beginner,6.0,4.8,3562.0,https://www.coursera.org/learn/mechanical-engineering-design-manufacturing?specialization=autodesk-cad-cam-cae-mechanical-engineering
+189,Digital Manufacturing & Design Technology  Specialization,Physical Science and Engineering,Electrical Engineering,Specialization,Advanced,180.0,4.6,3550.0,https://www.coursera.org/specializations/digital-manufacturing-design-technology
+190,Introduction to Cloud Computing,Information Technology,Cloud Computing,Course,Beginner,12.0,4.7,3538.0,https://www.coursera.org/learn/introduction-to-cloud
+191,AWS Cloud Technical Essentials,Information Technology,Cloud Computing,Course,Intermediate,24.0,4.8,3455.0,https://www.coursera.org/learn/aws-cloud-technical-essentials
+192,Astronomy: Exploring Time and Space,Physical Science and Engineering,Physics and Astronomy,Course,Intermediate,43.0,4.8,3442.0,https://www.coursera.org/learn/astro
+193,Autodesk CAD/CAM/CAE for Mechanical Engineering Specialization,Physical Science and Engineering,Mechanical Engineering,Specialization,Advanced,80.0,4.8,3439.0,https://www.coursera.org/specializations/autodesk-cad-cam-cae-mechanical-engineering
+194,Digital Manufacturing & Design,Physical Science and Engineering,Mechanical Engineering,Course,Beginner,9.0,4.7,3418.0,https://www.coursera.org/learn/digital-manufacturing-design?specialization=digital-manufacturing-design-technology
+195,Drug Discovery ,Health,Healthcare Management,Course,Beginner,9.0,4.6,3360.0,https://www.coursera.org/learn/drug-discovery?specialization=drug-development-product-management
+196,Intro to Digital Manufacturing with Autodesk Fusion 360,Physical Science and Engineering,Mechanical Engineering,Course,Beginner,11.0,4.6,3332.0,https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360?specialization=cad-design-digital-manufacturing
+197,Introduction to Calculus,Math and Logic,Math and Logic,Course,Intermediate,58.0,4.8,3291.0,https://www.coursera.org/learn/introduction-to-calculus
+198,Dino 101: Dinosaur Paleobiology,Health,Basic Science,Course,Intermediate,14.0,4.9,3269.0,https://www.coursera.org/learn/dino101
+199,Positive Psychiatry and Mental Health ,Health,Basic Science,Course,Intermediate,19.0,4.8,3259.0,https://www.coursera.org/learn/positive-psychiatry
+200,Epidemiology in Public Health Practice Specialization,Health,Public Health,Specialization,Advanced,100.0,4.7,3252.0,https://www.coursera.org/specializations/professional-epidemiology
+201,Introduction to Power Electronics,Physical Science and Engineering,Electrical Engineering,Course,Beginner,11.0,4.7,3241.0,https://www.coursera.org/learn/power-electronics?specialization=power-electronics
+202,IBM Full Stack Software Developer Professional Certificate,Information Technology,Cloud Computing,Professional Certificate,Advanced,80.0,4.5,3237.0,https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer
+203,Business English Communication Skills Specialization,Language Learning,Learning English,Specialization,Advanced,120.0,4.8,3131.0,https://www.coursera.org/specializations/business-english
+204,Understanding Clinical Research: Behind the Statistics,Health,Research,Course,Intermediate,27.0,4.8,3131.0,https://www.coursera.org/learn/clinical-research
+205,Business English: Networking,Language Learning,Learning English,Course,Intermediate,28.0,4.8,3107.0,https://www.coursera.org/learn/business-english-intro?specialization=business-english
+206,Introduction to Systematic Review and Meta-Analysis,Health,Research,Course,Intermediate,13.0,4.8,3093.0,https://www.coursera.org/learn/systematic-review
+207,Spanish Vocabulary: Meeting People,Language Learning,Other Languages,Course,Intermediate,16.0,4.6,3089.0,https://www.coursera.org/learn/spanish-vocabulary-meeting-people?specialization=learn-spanish
+208,Getting Started with Essay Writing,Arts and Humanities,Music and Art,Course,Intermediate,19.0,4.7,3088.0,https://www.coursera.org/learn/getting-started-with-essay-writing?specialization=academic-english
+209,Terrorism and Counterterrorism: Comparing Theory and Practice,Social Sciences,Governance and Society,Course,Intermediate,19.0,4.8,3009.0,https://www.coursera.org/learn/terrorism
+210,Learn Spanish: Basic Spanish Vocabulary Specialization,Language Learning,Other Languages,Specialization,Advanced,100.0,4.6,3009.0,https://www.coursera.org/specializations/learn-spanish
+211,Robotics Specialization,Physical Science and Engineering,Electrical Engineering,Specialization,Advanced,140.0,4.3,2981.0,https://www.coursera.org/specializations/robotics
+212,Robotics: Aerial Robotics,Physical Science and Engineering,Mechanical Engineering,Course,Intermediate,17.0,4.5,2946.0,https://www.coursera.org/learn/robotics-flight?specialization=robotics
+213,Power Electronics Specialization,Physical Science and Engineering,Electrical Engineering,Specialization,Advanced,80.0,4.8,2939.0,https://www.coursera.org/specializations/power-electronics
+214,Learning to Teach Online,Social Sciences,Education,Course,Intermediate,17.0,4.7,2913.0,https://www.coursera.org/learn/teach-online
+215,Industrial Biotechnology,Health,Basic Science,Course,Beginner,11.0,4.7,2905.0,https://www.coursera.org/learn/industrial-biotech
+216,Habilidades Gerenciales  Specialization,Personal Development,Personal Development,Specialization,Advanced,120.0,4.8,2902.0,https://www.coursera.org/specializations/habilidades
+217,Clinical Terminology for International and U.S. Students,Health,Patient Care,Course,Intermediate,34.0,4.8,2881.0,https://www.coursera.org/learn/clinical-terminology
+218,Understanding Einstein: The Special Theory of Relativity,Physical Science and Engineering,Physics and Astronomy,Course,Intermediate,80.0,4.9,2879.0,https://www.coursera.org/learn/einstein-relativity
+219,Nutrition and Lifestyle in Pregnancy,Health,Nutrition,Course,Beginner,7.0,4.8,2852.0,https://www.coursera.org/learn/nutrition-pregnancy
+220,Think Again I: How to Understand Arguments,Arts and Humanities,Philosophy,Course,Intermediate,25.0,4.6,2810.0,https://www.coursera.org/learn/understanding-arguments?specialization=logic-critical-thinking-duke
+221,Essential Epidemiologic Tools for Public Health Practice,Health,Public Health,Course,Beginner,4.0,4.7,2772.0,https://www.coursera.org/learn/epidemiology-tools?specialization=professional-epidemiology
+222,Introduction to Environmental Law and Policy,Social Sciences,Law,Course,Intermediate,14.0,4.8,2755.0,https://www.coursera.org/learn/environmental-law
+223,Fashion as Design,Arts and Humanities,Music and Art,Course,Intermediate,20.0,4.8,2753.0,https://www.coursera.org/learn/fashion-design?specialization=modern-contemporary-art-design
+224,Microeconomics Principles,Social Sciences,Economics,Course,Intermediate,26.0,4.8,2701.0,https://www.coursera.org/learn/microeconomics
+225,Introduction to Imagemaking,Arts and Humanities,Music and Art,Course,Beginner,11.0,4.5,2699.0,https://www.coursera.org/learn/image-making?specialization=graphic-design
+226,Anatomy Specialization,Health,Basic Science,Specialization,Advanced,100.0,4.8,2672.0,https://www.coursera.org/specializations/anatomy
+227,Introduction to Game Design,Arts and Humanities,Music and Art,Course,Beginner,6.0,4.7,2618.0,https://www.coursera.org/learn/game-design?specialization=game-design
+228,English for Journalism,Language Learning,Learning English,Course,Intermediate,42.0,4.8,2567.0,https://www.coursera.org/learn/journalism
+229,Introduction to Mathematical Thinking,Math and Logic,Math and Logic,Course,Intermediate,38.0,4.8,2510.0,https://www.coursera.org/learn/mathematical-thinking
+230,Music Business Foundations,Arts and Humanities,Music and Art,Course,Beginner,12.0,4.9,2473.0,https://www.coursera.org/learn/music-business-foundations?specialization=music-business
+231,Introduction to Sustainability,Physical Science and Engineering,Environmental Science and Sustainability,Course,Intermediate,25.0,4.8,2455.0,https://www.coursera.org/learn/sustainability
+232,Managing Emotions in Times of Uncertainty & Stress,Social Sciences,Education,Course,Beginner,9.0,4.8,2439.0,https://www.coursera.org/learn/managing-emotions-uncertainty-stress
+233,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,Physical Science and Engineering,Mechanical Engineering,Course,Intermediate,18.0,4.7,2400.0,https://www.coursera.org/learn/autodesk-autocad-design-drafting
+234,Introduction to Electronics,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,46.0,4.7,2398.0,https://www.coursera.org/learn/electronics
+235,Ideas from the History of Graphic Design,Arts and Humanities,History,Course,Beginner,10.0,4.7,2348.0,https://www.coursera.org/learn/graphic-design-history?specialization=graphic-design
+236,Game Design: Art and Concepts Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,120.0,4.7,2310.0,https://www.coursera.org/specializations/game-design
+237,Learn Chinese: HSK Test Preparation Specialization,Language Learning,Other Languages,Specialization,Advanced,140.0,4.8,2300.0,https://www.coursera.org/specializations/hsk-learn-chinese
+238,Achieving Personal and Professional Success Specialization,Personal Development,Personal Development,Specialization,Advanced,80.0,4.7,2296.0,https://www.coursera.org/specializations/wharton-success
+239,Miracles of Human Language: An Introduction to Linguistics,Language Learning,Other Languages,Course,Intermediate,23.0,4.7,2273.0,https://www.coursera.org/learn/human-language
+240,Chinese for HSK 1,Language Learning,Other Languages,Course,Intermediate,37.0,4.9,2260.0,https://www.coursera.org/learn/hsk-1?specialization=hsk-learn-chinese
+241,"TESOL Certificate, Part 2: Teach English Now! Specialization",Language Learning,Learning English,Specialization,Advanced,120.0,4.9,2230.0,https://www.coursera.org/specializations/tesol-certificate-2
+242,Solar Energy Basics,Physical Science and Engineering,Environmental Science and Sustainability,Course,Intermediate,15.0,4.8,2225.0,https://www.coursera.org/learn/solar-energy-basics
+243,Greek and Roman Mythology,Arts and Humanities,Philosophy,Course,Intermediate,24.0,4.8,2219.0,https://www.coursera.org/learn/mythology
+244,Natural Gas,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,15.0,4.7,2216.0,https://www.coursera.org/learn/natural-gas?specialization=energy-industry
+245,Guitar for Beginners,Arts and Humanities,Music and Art,Course,Intermediate,23.0,4.8,2211.0,https://www.coursera.org/learn/guitar?specialization=singer-songwriter
+246,"Teach English Now! Second Language Reading, Writing, and Grammar ",Language Learning,Learning English,Course,Intermediate,22.0,4.9,2179.0,https://www.coursera.org/learn/tesol-writing?specialization=tesol-certificate-2
+247,Quantitative Methods,Physical Science and Engineering,Research Methods,Course,Intermediate,29.0,4.7,2166.0,https://www.coursera.org/learn/quantitative-methods?specialization=social-science
+248,Safety in the Utility Industry ,Physical Science and Engineering,Electrical Engineering,Course,Beginner,11.0,4.7,2158.0,https://www.coursera.org/learn/safety-utility-industry?specialization=energy-industry
+249,Modern and Contemporary Art and Design Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,140.0,4.8,2112.0,https://www.coursera.org/specializations/modern-contemporary-art-design
+250,ADHD: Everyday Strategies for Elementary Students,Social Sciences,Education,Course,Beginner,8.0,4.7,2046.0,https://www.coursera.org/learn/adhd-treatment
+251,Teach English Now! Capstone Project 1,Social Sciences,Education,Course,Intermediate,34.0,4.9,2029.0,https://www.coursera.org/learn/teaching-english-capstone?specialization=tesol
+252,Finding Purpose and Meaning In Life: Living for What Matters Most,Personal Development,Personal Development,Course,Beginner,8.0,4.8,2013.0,https://www.coursera.org/learn/finding-purpose-and-meaning-in-life
+253,Children's Human Rights - An Interdisciplinary Introduction,Social Sciences,Law,Course,Beginner,10.0,4.7,1980.0,https://www.coursera.org/learn/childrens-rights
+254,UX Design Fundamentals,Arts and Humanities,Music and Art,Course,Intermediate,13.0,4.8,1972.0,https://www.coursera.org/learn/ux-design-fundamentals?specialization=ui-ux-design
+255,"GIS Data Formats, Design and Quality",Physical Science and Engineering,Environmental Science and Sustainability,Course,Intermediate,27.0,4.8,1971.0,https://www.coursera.org/learn/gis-data?specialization=gis
+256,Introduction to GIS Mapping,Physical Science and Engineering,Environmental Science and Sustainability,Course,Intermediate,14.0,4.9,1954.0,https://www.coursera.org/learn/introduction-gis-mapping?specialization=gis-mapping-spatial-analysis
+257,Word Forms and Simple Present Tense,Language Learning,Learning English,Course,Beginner,9.0,4.9,1943.0,https://www.coursera.org/learn/word-forms-simple-present-tense
+258,Differential Equations for Engineers,Math and Logic,Math and Logic,Course,Intermediate,26.0,4.9,1943.0,https://www.coursera.org/learn/differential-equations-engineers?specialization=mathematics-engineers
+259,Learn English: Beginning Grammar Specialization,Language Learning,Learning English,Specialization,Intermediate,60.0,4.9,1931.0,https://www.coursera.org/specializations/learn-english-beginning-grammar
+260,The Art of Music Production,Arts and Humanities,Music and Art,Course,Intermediate,14.0,4.8,1912.0,https://www.coursera.org/learn/producing-music
+261,Learn English: Advanced Grammar and Punctuation Specialization,Language Learning,Learning English,Specialization,Advanced,100.0,4.8,1844.0,https://www.coursera.org/specializations/advanced-grammar-punctuation
+262,Verb Tenses and Passives,Language Learning,Learning English,Course,Intermediate,24.0,4.8,1816.0,https://www.coursera.org/learn/verb-passives?specialization=advanced-grammar-punctuation
+263,Creative Writing: The Craft of Character,Arts and Humanities,Music and Art,Course,Beginner,6.0,4.5,1808.0,https://www.coursera.org/learn/craft-of-character?specialization=creative-writing
+264,Improving Communication Skills,Personal Development,Personal Development,Course,Beginner,9.0,4.7,1806.0,https://www.coursera.org/learn/wharton-communication-skills
+265,Advanced Writing,Language Learning,Learning English,Course,Intermediate,19.0,4.7,1806.0,https://www.coursera.org/learn/advanced-writing?specialization=academic-english
+266,Music Production Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,100.0,4.8,1759.0,https://www.coursera.org/specializations/music-production
+267,Camera Control,Arts and Humanities,Music and Art,Course,Intermediate,13.0,4.8,1749.0,https://www.coursera.org/learn/camera-control?specialization=photography-basics
+268,"Teach English Now! Second Language Listening, Speaking, and Pronunciation",Language Learning,Learning English,Course,Intermediate,19.0,4.9,1735.0,https://www.coursera.org/learn/tesol-speaking?specialization=tesol-certificate-2
+269,Inclusive Leadership: The Power of Workplace Diversity,Social Sciences,Education,Course,Intermediate,21.0,4.9,1701.0,https://www.coursera.org/learn/inclusiveleadership
+270,Good with Words: Writing and Editing Specialization,Personal Development,Personal Development,Specialization,Advanced,80.0,4.8,1690.0,https://www.coursera.org/specializations/good-with-words
+271,Politics and Economics of International Energy,Social Sciences,Economics,Course,Intermediate,29.0,4.7,1671.0,https://www.coursera.org/learn/global-energy
+272,Writing and Editing: Word Choice and Word Order,Personal Development,Personal Development,Course,Intermediate,20.0,4.7,1658.0,https://www.coursera.org/learn/writing-editing-words
+273,Introduction to English Common Law,Social Sciences,Law,Course,Intermediate,19.0,4.8,1641.0,https://www.coursera.org/learn/intro-common-law
+274,Build Your Professional ePortfolio in English,Language Learning,Learning English,Course,Intermediate,13.0,4.7,1542.0,https://www.coursera.org/learn/eportfolio-english?specialization=improve-english
+275,The Arts and Science of Relationships: Understanding Human Needs,Personal Development,Personal Development,Course,Intermediate,31.0,4.5,1494.0,https://www.coursera.org/learn/human-needs
+276,International Humanitarian Law in Theory and Practice ,Social Sciences,Law,Course,Intermediate,18.0,4.8,1493.0,https://www.coursera.org/learn/international-humanitarian-law
+277,Economics of Money and Banking,Social Sciences,Economics,Course,Intermediate,32.0,4.9,1457.0,https://www.coursera.org/learn/money-banking
+278,Teach English Now! Technology Enriched Teaching,Language Learning,Learning English,Course,Intermediate,19.0,4.9,1396.0,https://www.coursera.org/learn/tesol-technology?specialization=tesol-certificate-2
+279,Global Diplomacy: the United Nations in the World,Social Sciences,Governance and Society,Course,Beginner,12.0,4.7,1382.0,https://www.coursera.org/learn/global-diplomacy-un
+280,A Law Student's Toolkit,Social Sciences,Law,Course,Intermediate,15.0,4.7,1317.0,https://www.coursera.org/learn/law-student
+281,Vector Calculus for Engineers,Math and Logic,Math and Logic,Course,Intermediate,29.0,4.8,1269.0,https://www.coursera.org/learn/vector-calculus-engineers?specialization=mathematics-engineers
+282,Qualitative Research Methods,Social Sciences,Governance and Society,Course,Intermediate,23.0,4.6,1226.0,https://www.coursera.org/learn/qualitative-methods?specialization=social-science
+283,Dynamic Public Speaking Specialization,Personal Development,Personal Development,Specialization,Advanced,100.0,4.8,1155.0,https://www.coursera.org/specializations/public-speaking
+284,Success,Personal Development,Personal Development,Course,Beginner,9.0,4.8,1125.0,https://www.coursera.org/learn/wharton-success?specialization=wharton-success
+285,International Law in Action: the Arbitration of International Disputes,Social Sciences,Law,Course,Beginner,11.0,4.8,1014.0,https://www.coursera.org/learn/arbitration-international-disputes
+286,International Security Management,Social Sciences,Governance and Society,Course,Beginner,8.0,4.7,950.0,https://www.coursera.org/learn/international-security-management
+287,Global Trends for Business and Society,Social Sciences,Governance and Society,Course,Beginner,9.0,4.8,872.0,https://www.coursera.org/learn/wharton-global-trends-business?specialization=wharton-global-business-strategy
+288,Healing with the Arts,Personal Development,Personal Development,Course,Beginner,12.0,4.6,832.0,https://www.coursera.org/learn/healing-with-the-arts
+289,Introduction to Intellectual Property,Social Sciences,Law,Course,Intermediate,15.0,4.8,824.0,https://www.coursera.org/learn/introduction-intellectual-property?specialization=introduction-intellectual-property
+290,A Blueprint for Success – Your Video Pre-Production,Personal Development,Personal Development,Course,Beginner,11.0,4.7,545.0,https://www.coursera.org/learn/a-blueprint-for-success-your-video-pre-production
+291,Challenges of Leading Individuals in the Tech Industry,Personal Development,Personal Development,Course,Beginner,8.0,4.7,545.0,https://www.coursera.org/learn/challenges-of-leading-individuals-in-the-tech-industry?specialization=principles-of-leadership-leading-technical-teams
+292,Information Gathering and Vetting,Personal Development,Personal Development,Course,Beginner,5.0,4.7,545.0,https://www.coursera.org/learn/informationgatheringandvetting?specialization=strategicthinkingforeveryone
+293,A Technical Leader's Qualities and Effectiveness,Personal Development,Personal Development,Course,Beginner,7.0,4.7,545.0,https://www.coursera.org/learn/a-technical-leaders-qualities-and-effectiveness?specialization=principles-of-leadership-leading-technical-teams
+294,Public Speaking and Presentations ,Personal Development,Personal Development,Course,Beginner,7.0,4.7,545.0,https://www.coursera.org/learn/publicspeakingandpresentations?specialization=communicationforeveryone
+295,Strategic Thinking,Personal Development,Personal Development,Course,Beginner,7.0,4.7,545.0,https://www.coursera.org/learn/strategicthinking?specialization=strategicthinkingforeveryone
+296,Communicating Your Best Self ,Personal Development,Personal Development,Course,Beginner,6.0,4.7,545.0,https://www.coursera.org/learn/communicatingyourbestself?specialization=communicationforeveryone
+297,Communicating In Groups and Teams ,Personal Development,Personal Development,Course,Beginner,9.0,4.7,545.0,https://www.coursera.org/learn/communicatingingroupsandteams?specialization=communicationforeveryone
+298,Career Self-Management Advanced Certification,Personal Development,Personal Development,Course,Beginner,8.0,4.7,545.0,https://www.coursera.org/learn/career-fitness?specialization=career-brand-management
+299,Challenges of Leading Technical Teams,Personal Development,Personal Development,Course,Beginner,8.0,4.7,545.0,https://www.coursera.org/learn/challenges-of-leading-technical-teams?specialization=principles-of-leadership-leading-technical-teams
+300,Perspective-Taking,Personal Development,Personal Development,Course,Beginner,5.0,4.7,545.0,https://www.coursera.org/learn/perspectivetaking?specialization=strategicthinkingforeveryone
+301,Ready to Roll – The Video Production Process,Personal Development,Personal Development,Course,Intermediate,58.0,4.7,545.0,https://www.coursera.org/learn/ready-to-roll-the-video-production-process?specialization=the-art-of-visual-storytelling
+302,Futures Thinking,Personal Development,Personal Development,Course,Beginner,7.0,4.7,545.0,https://www.coursera.org/learn/futuresthinking?specialization=strategicthinkingforeveryone
+303,Bring Your Story to Life – Video Post-Production,Personal Development,Personal Development,Course,Beginner,9.0,4.7,545.0,https://www.coursera.org/learn/bringing-your-story-to-life?specialization=the-art-of-visual-storytelling
+304,Communication For Everyone  Specialization,Personal Development,Personal Development,Specialization,Advanced,140.0,4.7,545.0,https://www.coursera.org/specializations/communicationforeveryone
+305,Principles of Leadership: Leading Technical Teams Specialization,Personal Development,Personal Development,Specialization,Intermediate,60.0,4.7,545.0,https://www.coursera.org/specializations/principles-of-leadership-leading-technical-teams
+306,Managing Debt,Personal Development,Personal Development,Course,Beginner,7.0,4.7,545.0,https://www.coursera.org/learn/managing-debt?specialization=personal-finance-fundamentals
+307,Mathematical Biostatistics Boot Camp 1,Math and Logic,Math and Logic,Course,Intermediate,13.0,4.4,468.0,https://www.coursera.org/learn/biostatistics?specialization=advanced-statistics-data-science
+308,Mathematics for Engineers Specialization,Math and Logic,Math and Logic,Specialization,Advanced,120.0,4.9,387.0,https://www.coursera.org/specializations/mathematics-engineers
+309,Algebra: Elementary to Advanced Specialization,Math and Logic,Math and Logic,Specialization,Advanced,80.0,4.8,374.0,https://www.coursera.org/specializations/algebra-elementary-to-advanced
+310,Algebra: Elementary to Advanced - Equations & Inequalities,Math and Logic,Math and Logic,Course,Beginner,10.0,4.8,341.0,https://www.coursera.org/learn/algebra-i?specialization=algebra-elementary-to-advanced
+311,Numerical Methods for Engineers,Math and Logic,Math and Logic,Course,Intermediate,41.0,4.9,252.0,https://www.coursera.org/learn/numerical-methods-engineers?specialization=mathematics-engineers
+312,Advanced Statistics for Data Science Specialization,Math and Logic,Math and Logic,Specialization,Advanced,100.0,4.3,209.0,https://www.coursera.org/specializations/advanced-statistics-data-science
+313,Mathematics for Computer Science,Math and Logic,Math and Logic,Course,Intermediate,37.0,4.1,198.0,https://www.coursera.org/learn/mathematics-for-computer-science?specialization=introduction-computer-science-programming
+314,Expressway to Data Science: Essential Math Specialization,Math and Logic,Math and Logic,Specialization,Advanced,80.0,4.5,147.0,https://www.coursera.org/specializations/expressway-to-data-science-essential-math
+315,Algebra and Differential Calculus for Data Science,Math and Logic,Math and Logic,Course,Beginner,8.0,4.4,114.0,https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science?specialization=expressway-to-data-science-essential-math
+316,Algebra: Elementary to Advanced - Functions & Applications,Math and Logic,Math and Logic,Course,Beginner,5.0,4.8,99.0,https://www.coursera.org/learn/algebra-ii?specialization=algebra-elementary-to-advanced
+317,Essential Linear Algebra for Data Science,Math and Logic,Math and Logic,Course,Beginner,7.0,4.6,86.0,https://www.coursera.org/learn/essential-linear-algebra-for-data-science?specialization=expressway-to-data-science-essential-math
+318,Algebra: Elementary to Advanced - Polynomials and Roots,Math and Logic,Math and Logic,Course,Beginner,9.0,4.8,73.0,https://www.coursera.org/learn/polynomials-roots?specialization=algebra-elementary-to-advanced
+319,Introduction to Quantum Information,Math and Logic,Math and Logic,Course,Beginner,10.0,4.2,61.0,https://www.coursera.org/learn/introduction-to-quantum-information
+320,Integral Calculus and Numerical Analysis for Data Science,Math and Logic,Math and Logic,Course,Beginner,3.0,4.6,48.0,https://www.coursera.org/learn/integral-calculus-and-numerical-analysis-for-data-science?specialization=expressway-to-data-science-essential-math
+321,Mathematics for Engineers: The Capstone Course,Math and Logic,Math and Logic,Course,Beginner,9.0,4.9,11.0,https://www.coursera.org/learn/mathematics-engineers-capstone?specialization=mathematics-engineers
+322,"Data Engineering, Big Data, and Machine Learning on GCP Specialization",Data Science,Machine Learning,Specialization,Advanced,80.0,4.6,12174.0,https://www.coursera.org/specializations/gcp-data-machine-learning
+323,Mathematics for Machine Learning Specialization,Data Science,Machine Learning,Specialization,Advanced,80.0,4.6,12121.0,https://www.coursera.org/specializations/mathematics-machine-learning
+324,Introduction to Data Science Specialization,Data Science,Data Analysis,Specialization,Advanced,100.0,4.7,11927.0,https://www.coursera.org/specializations/introduction-data-science
+325,Mathematics for Machine Learning: Linear Algebra,Data Science,Machine Learning,Course,Intermediate,18.0,4.7,11522.0,https://www.coursera.org/learn/linear-algebra-machine-learning
+326,Introduction to Data Analytics,Data Science,Data Analysis,Course,Beginner,10.0,4.8,10984.0,https://www.coursera.org/learn/introduction-to-data-analytics
+327,Process Data from Dirty to Clean,Data Science,Data Analysis,Course,Intermediate,23.0,4.8,10846.0,https://www.coursera.org/learn/process-data
+328,Data Visualization with Python,Data Science,Data Analysis,Course,Intermediate,17.0,4.5,10834.0,https://www.coursera.org/learn/python-for-data-visualization
+329,Introduction to Big Data,Data Science,Data Analysis,Course,Intermediate,17.0,4.6,10704.0,https://www.coursera.org/learn/big-data-introduction?specialization=big-data
+330,Introduction to Artificial Intelligence (AI),Data Science,Machine Learning,Course,Beginner,9.0,4.7,10615.0,https://www.coursera.org/learn/introduction-to-ai
+331,Machine Learning Specialization,Data Science,Machine Learning,Specialization,Intermediate,60.0,4.9,10438.0,https://www.coursera.org/specializations/machine-learning-introduction
+332,Google Data Analytics Capstone: Complete a Case Study,Data Science,Data Analysis,Course,Beginner,9.0,4.8,9946.0,https://www.coursera.org/learn/google-data-analytics-capstone
+333,Introduction to Data Analysis Using Excel,Data Science,Data Analysis,Course,Intermediate,24.0,4.7,9892.0,https://www.coursera.org/learn/excel-data-analysis?specialization=business-statistics-analysis
+334,Big Data Specialization,Data Science,Data Analysis,Specialization,Advanced,160.0,4.5,9407.0,https://www.coursera.org/specializations/big-data
+335,Preparing to Manage Human Resources,Business,Leadership and Management,Course,Intermediate,17.0,4.8,9134.0,https://www.coursera.org/learn/managing-human-resources
+336,Supervised Machine Learning: Regression and Classification ,Data Science,Machine Learning,Course,Intermediate,33.0,4.9,9090.0,https://www.coursera.org/learn/machine-learning
+337,Budgeting and Scheduling Projects,Business,Leadership and Management,Course,Beginner,6.0,4.7,8887.0,https://www.coursera.org/learn/schedule-projects?specialization=project-management
+338,Managing Project Risks and Changes,Business,Leadership and Management,Course,Beginner,5.0,4.7,8769.0,https://www.coursera.org/learn/project-risk-management?specialization=project-management-success
+339,Learn SQL Basics for Data Science Specialization,Data Science,Data Analysis,Specialization,Advanced,80.0,4.5,8649.0,https://www.coursera.org/specializations/learn-sql-basics-data-science
+340,Project Planning: Putting It All Together,Business,Leadership and Management,Course,Intermediate,29.0,4.8,8605.0,https://www.coursera.org/learn/project-planning-google
+341,Fundamentals of Quantitative Modeling,Business,Business Essentials,Course,Beginner,7.0,4.6,8422.0,https://www.coursera.org/learn/wharton-quantitative-modeling
+342,Machine Learning on Google Cloud Specialization,Data Science,Machine Learning,Specialization,Advanced,80.0,4.6,8391.0,https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
+343,Agile Project Management,Business,Leadership and Management,Course,Intermediate,25.0,4.8,8385.0,https://www.coursera.org/learn/agile-project-management
+344,Fundamentals of Project Planning and Management,Business,Business Essentials,Course,Beginner,8.0,4.7,8375.0,https://www.coursera.org/learn/uva-darden-project-management
+345,Applied Machine Learning in Python,Data Science,Data Analysis,Course,Intermediate,31.0,4.6,8307.0,https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python
+346,Business Metrics for Data-Driven Companies,Data Science,Data Analysis,Course,Beginner,7.0,4.6,8293.0,https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql
+347,Contabilidad para no contadores ,Business,Finance,Course,Beginner,11.0,4.8,8228.0,https://www.coursera.org/learn/contabilidad
+348,Design Thinking for Innovation,Business,Business Strategy,Course,Beginner,6.0,4.7,8188.0,https://www.coursera.org/learn/uva-darden-design-thinking-innovation?specialization=leading-modern-day-business
+349,A Crash Course in Data Science,Data Science,Data Analysis,Course,Beginner,7.0,4.5,8055.0,https://www.coursera.org/learn/data-science-course?specialization=executive-data-science
+350,Getting and Cleaning Data,Data Science,Data Analysis,Course,Intermediate,19.0,4.5,8010.0,https://www.coursera.org/learn/data-cleaning?specialization=jhu-data-science
+351,Analyze Data to Answer Questions,Data Science,Data Analysis,Course,Intermediate,26.0,4.6,7909.0,https://www.coursera.org/learn/analyze-data
+352,Introduction to Financial Accounting,Business,Business Essentials,Course,Intermediate,13.0,4.7,7744.0,https://www.coursera.org/learn/wharton-accounting
+353,Convolutional Neural Networks in TensorFlow,Data Science,Machine Learning,Course,Intermediate,16.0,4.7,7721.0,https://www.coursera.org/learn/convolutional-neural-networks-tensorflow
+354,Excel Skills for Business: Intermediate II,Business,Business Essentials,Course,Intermediate,28.0,4.8,7652.0,https://www.coursera.org/learn/excel-intermediate-2?specialization=excel
+355,Business and Financial Modeling Specialization,Business,Business Essentials,Specialization,Advanced,120.0,4.5,7555.0,https://www.coursera.org/specializations/wharton-business-financial-modeling
+356,Private Equity and Venture Capital,Business,Finance,Course,Beginner,9.0,4.8,7476.0,https://www.coursera.org/learn/private-equity
+357,Applied Data Science Specialization,Data Science,Machine Learning,Specialization,Advanced,120.0,4.6,7175.0,https://www.coursera.org/specializations/applied-data-science
+358,Six Sigma Principles ,Business,Business Essentials,Course,Intermediate,13.0,4.6,7153.0,https://www.coursera.org/learn/six-sigma-principles
+359,How Google does Machine Learning,Data Science,Machine Learning,Course,Intermediate,13.0,4.6,7135.0,https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp
+360,Business Statistics and Analysis Specialization,Data Science,Probability and Statistics,Specialization,Advanced,100.0,4.7,7080.0,https://www.coursera.org/specializations/business-statistics-analysis
+361,Executive Data Science Specialization,Data Science,Data Analysis,Specialization,Intermediate,40.0,4.5,7076.0,https://www.coursera.org/specializations/executive-data-science
+362,Data Analysis with R Programming,Data Science,Data Analysis,Course,Intermediate,37.0,4.8,7066.0,https://www.coursera.org/learn/data-analysis-r
+363,Interactivity with JavaScript,Computer Science,Mobile and Web Development,Course,Beginner,9.0,4.7,7039.0,https://www.coursera.org/learn/javascript?specialization=web-design
+364,The Arduino Platform and C Programming,Computer Science,Software Development,Course,Beginner,12.0,4.7,6934.0,https://www.coursera.org/learn/arduino-platform?specialization=iot
+365,Construction Management Specialization,Business,Leadership and Management,Specialization,Advanced,140.0,4.8,6900.0,https://www.coursera.org/specializations/construction-management
+366,Functional Programming in Scala Specialization,Computer Science,Software Development,Specialization,Advanced,140.0,4.7,6835.0,https://www.coursera.org/specializations/scala
+367,Agile Software Development,Computer Science,Software Development,Course,Beginner,11.0,4.7,6735.0,https://www.coursera.org/learn/agile-software-development?specialization=software-development-lifecycle
+368,Six Sigma Yellow Belt Specialization,Business,Leadership and Management,Specialization,Advanced,100.0,4.7,6678.0,https://www.coursera.org/specializations/six-sigma-fundamentals
+369,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate,Data Science,Machine Learning,Professional Certificate,Advanced,100.0,4.6,6666.0,https://www.coursera.org/professional-certificates/gcp-data-engineering
+370,"Brand Management: Aligning Business, Brand and Behaviour",Business,Entrepreneurship,Course,Intermediate,17.0,4.9,6596.0,https://www.coursera.org/learn/brand
+371,Programming Fundamentals,Computer Science,Algorithms,Course,Intermediate,18.0,4.7,6564.0,https://www.coursera.org/learn/programming-fundamentals?specialization=c-programming
+372,Data Visualization with Tableau Specialization,Data Science,Data Analysis,Specialization,Advanced,120.0,4.5,6556.0,https://www.coursera.org/specializations/data-visualization
+373,Blockchain Specialization,Computer Science,Software Development,Specialization,Advanced,80.0,4.6,6541.0,https://www.coursera.org/specializations/blockchain
+374,Applied Data Science Capstone,Data Science,Data Analysis,Course,Intermediate,17.0,4.7,6539.0,https://www.coursera.org/learn/applied-data-science-capstone
+375,Foundations of Positive Psychology  Specialization,Business,Business Essentials,Specialization,Advanced,100.0,4.8,6479.0,https://www.coursera.org/specializations/positivepsychology
+376,Share Data Through the Art of Visualization,Data Science,Data Analysis,Course,Intermediate,24.0,4.6,6342.0,https://www.coursera.org/learn/visualize-data
+377,Camino a la Excelencia en Gestión de Proyectos,Business,Leadership and Management,Course,Beginner,7.0,4.7,6297.0,https://www.coursera.org/learn/camino-excelencia-gestion-proyectos
+378,Build Wireframes and Low-Fidelity Prototypes,Computer Science,Design and Product,Course,Intermediate,23.0,4.9,6275.0,https://www.coursera.org/learn/wireframes-low-fidelity-prototypes
+379,Marketing Analytics,Business,Marketing,Course,Intermediate,16.0,4.7,6259.0,https://www.coursera.org/learn/uva-darden-market-analytics
+380,Natural Language Processing in TensorFlow,Data Science,Machine Learning,Course,Intermediate,24.0,4.6,6166.0,https://www.coursera.org/learn/natural-language-processing-tensorflow
+381,"Applied Plotting, Charting & Data Representation in Python",Data Science,Data Analysis,Course,Intermediate,24.0,4.5,6148.0,https://www.coursera.org/learn/python-plotting?specialization=data-science-python
+382,Fundamentals of Visualization with Tableau,Data Science,Data Analysis,Course,Beginner,10.0,4.5,6059.0,https://www.coursera.org/learn/data-visualization-tableau
+383,Learn to Program: The Fundamentals,Computer Science,Software Development,Course,Intermediate,25.0,4.7,6025.0,https://www.coursera.org/learn/learn-to-program
+384,Exploratory Data Analysis,Data Science,Data Analysis,Course,Intermediate,54.0,4.7,6017.0,https://www.coursera.org/learn/exploratory-data-analysis?specialization=data-science-foundations-r
+385,C for Everyone: Programming Fundamentals,Computer Science,Software Development,Course,Intermediate,15.0,4.5,5928.0,https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone
+386,Strategic Leadership and Management Specialization,Business,Leadership and Management,Specialization,Advanced,160.0,4.8,5926.0,https://www.coursera.org/specializations/strategic-leadership
+387,Project Management & Other Tools for Career Development Specialization,Business,Business Essentials,Specialization,Advanced,120.0,4.7,5909.0,https://www.coursera.org/specializations/project-management-success
+388,Construction Project Management,Business,Business Strategy,Course,Intermediate,26.0,4.8,5908.0,https://www.coursera.org/learn/construction-project-management
+389,Data-driven Decision Making,Data Science,Data Analysis,Course,Beginner,9.0,4.6,5868.0,https://www.coursera.org/learn/decision-making
+390,Leading People and Teams Specialization,Business,Leadership and Management,Specialization,Advanced,100.0,4.8,5865.0,https://www.coursera.org/specializations/leading-teams
+391,Digital Transformation,Business,Leadership and Management,Course,Intermediate,14.0,4.8,5842.0,https://www.coursera.org/learn/bcg-uva-darden-digital-transformation
+392,Data Science: Foundations using R Specialization,Data Science,Data Analysis,Specialization,Advanced,100.0,4.6,5839.0,https://www.coursera.org/specializations/data-science-foundations-r
+393,Investment Management Specialization,Business,Finance,Specialization,Advanced,100.0,4.8,5813.0,https://www.coursera.org/specializations/investment-management
+394,People Analytics,Business,Leadership and Management,Course,Beginner,8.0,4.6,5812.0,https://www.coursera.org/learn/wharton-people-analytics
+395,Introduction to Front-End Development,Computer Science,Mobile and Web Development,Course,Intermediate,18.0,4.8,5705.0,https://www.coursera.org/learn/introduction-to-front-end-development
+396,Effective Problem-Solving and Decision-Making,Business,Business Essentials,Course,Beginner,8.0,4.5,5682.0,https://www.coursera.org/learn/problem-solving?specialization=career-success
+397,Introduction to Corporate Finance,Business,Finance,Course,Beginner,7.0,4.6,5675.0,https://www.coursera.org/learn/wharton-finance
+398,Data Analysis with R Specialization,Data Science,Data Analysis,Specialization,Advanced,100.0,4.7,5669.0,https://www.coursera.org/specializations/statistics
+399,IBM Applied AI Professional Certificate,Data Science,Machine Learning,Professional Certificate,Advanced,120.0,4.6,5621.0,https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
+400,Object Oriented Programming in Java,Computer Science,Software Development,Course,Intermediate,39.0,4.7,5589.0,https://www.coursera.org/learn/object-oriented-java?specialization=object-oriented-programming
+401,Project Execution: Running the Project,Business,Leadership and Management,Course,Intermediate,26.0,4.8,5584.0,https://www.coursera.org/learn/project-execution-google
+402,Web Applications for Everybody Specialization,Computer Science,Mobile and Web Development,Specialization,Advanced,120.0,4.8,5521.0,https://www.coursera.org/specializations/web-applications
+403,Machine Learning: Regression,Data Science,Machine Learning,Course,Intermediate,22.0,4.8,5513.0,https://www.coursera.org/learn/ml-regression?specialization=machine-learning
+404,Excel Skills for Business: Advanced,Business,Business Essentials,Course,Intermediate,25.0,4.7,5506.0,https://www.coursera.org/learn/excel-advanced?specialization=excel
+405,Geographic Information Systems  (GIS) Specialization,Data Science,Data Analysis,Specialization,Advanced,120.0,4.8,5458.0,https://www.coursera.org/specializations/gis
+406,Understanding Financial Markets,Business,Finance,Course,Beginner,10.0,4.8,5456.0,https://www.coursera.org/learn/understanding-financial-markets?specialization=investment-management
+407,Leading Teams: Developing as a Leader,Business,Leadership and Management,Course,Intermediate,13.0,4.8,5427.0,https://www.coursera.org/learn/leading-teams-developing-as-a-leader?specialization=strategic-leadership
+408,Introduction to Probability and Data with R,Data Science,Data Analysis,Course,Intermediate,14.0,4.7,5419.0,https://www.coursera.org/learn/probability-intro
+409,Excel Basics for Data Analysis,Data Science,Data Analysis,Course,Beginner,12.0,4.8,5413.0,https://www.coursera.org/learn/excel-basics-data-analysis-ibm
+410,Management of Fashion and Luxury Companies,Business,Leadership and Management,Course,Beginner,12.0,4.7,5392.0,https://www.coursera.org/learn/mafash
+411,Algorithms Specialization,Computer Science,Algorithms,Specialization,Advanced,80.0,4.8,5381.0,https://www.coursera.org/specializations/algorithms
+412,Capstone: Applying Project Management in the Real World,Business,Leadership and Management,Course,Intermediate,33.0,4.8,5333.0,https://www.coursera.org/learn/applying-project-management
+413,Introductory C Programming Specialization,Computer Science,Software Development,Specialization,Advanced,100.0,4.6,5294.0,https://www.coursera.org/specializations/c-programming
+414,IBM AI Engineering Professional Certificate,Data Science,Machine Learning,Professional Certificate,Advanced,160.0,4.5,5283.0,https://www.coursera.org/professional-certificates/ai-engineer
+415,Inspiring and Motivating Individuals,Business,Leadership and Management,Course,Intermediate,14.0,4.8,5222.0,https://www.coursera.org/learn/motivate-people-teams?specialization=leading-teams
+416,Data Structures,Computer Science,Algorithms,Course,Intermediate,24.0,4.6,5179.0,https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms
+417,Problem Solving with Excel ,Data Science,Data Analysis,Course,Intermediate,20.0,4.7,5163.0,https://www.coursera.org/learn/excel-analysis?specialization=pwc-analytics
+418,Software Processes and Agile Practices,Computer Science,Design and Product,Course,Beginner,8.0,4.7,5128.0,https://www.coursera.org/learn/software-processes-and-agile-practices?specialization=product-management
+419,Genomic Data Science Specialization,Data Science,Data Analysis,Specialization,Advanced,120.0,4.4,5102.0,https://www.coursera.org/specializations/genomic-data-science
+420,Forensic Accounting and Fraud Examination,Business,Finance,Course,Beginner,6.0,4.7,5096.0,https://www.coursera.org/learn/forensic-accounting
+421,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Computer Science,Algorithms,Course,Intermediate,16.0,4.8,5050.0,https://www.coursera.org/learn/algorithms-divide-conquer
+422,Introduction to Structured Query Language (SQL),Computer Science,Mobile and Web Development,Course,Intermediate,15.0,4.8,5017.0,https://www.coursera.org/learn/intro-sql?specialization=web-applications
+423,Viral Marketing and How to Craft Contagious Content,Business,Marketing,Course,Beginner,4.0,4.8,4982.0,https://www.coursera.org/learn/wharton-contagious-viral-marketing
+424,"Python Functions, Files, and Dictionaries",Computer Science,Software Development,Course,Intermediate,31.0,4.8,4980.0,https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming
+425,Operations Analytics,Business,Business Strategy,Course,Beginner,10.0,4.7,4957.0,https://www.coursera.org/learn/wharton-operations-analytics
+426,Digital Product Management: Modern Fundamentals,Business,Leadership and Management,Course,Beginner,11.0,4.7,4845.0,https://www.coursera.org/learn/uva-darden-digital-product-management
+427,Natural Language Processing Specialization,Data Science,Machine Learning,Specialization,Advanced,80.0,4.6,4787.0,https://www.coursera.org/specializations/natural-language-processing
+428,Entrepreneurship Specialization,Business,Entrepreneurship,Specialization,Advanced,120.0,4.8,4764.0,https://www.coursera.org/specializations/wharton-entrepreneurship
+429,"Sequences, Time Series and Prediction",Data Science,Machine Learning,Course,Intermediate,22.0,4.7,4741.0,https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+430,Digital Marketing Analytics in Theory,Data Science,Data Analysis,Course,Intermediate,20.0,4.5,4692.0,https://www.coursera.org/learn/marketing-analytics?specialization=digital-marketing
+431,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,Business,Business Essentials,Course,Intermediate,33.0,4.9,4548.0,https://www.coursera.org/learn/negotiation
+432,Market Research and Consumer Behavior,Business,Marketing,Course,Beginner,6.0,4.4,4532.0,https://www.coursera.org/learn/market-research?specialization=marketing-strategy
+433,Statistical Inference,Data Science,Probability and Statistics,Course,Intermediate,54.0,4.2,4393.0,https://www.coursera.org/learn/statistical-inference?specialization=data-science-statistics-machine-learning
+434,Social Media Marketing Specialization,Business,Marketing,Specialization,Advanced,140.0,4.7,4388.0,https://www.coursera.org/specializations/social-media-marketing
+435,Successful Presentation,Business,Business Essentials,Course,Intermediate,20.0,4.8,4372.0,https://www.coursera.org/learn/presentation-skills?specialization=effective-business-communication
+436,Financial Management Specialization,Business,Finance,Specialization,Advanced,160.0,4.7,4366.0,https://www.coursera.org/specializations/financial-management
+437,Finance for Non-Financial Professionals,Business,Finance,Course,Beginner,6.0,4.6,4341.0,https://www.coursera.org/learn/finance-for-non-finance-managers?specialization=career-success
+438,Advanced Styling with Responsive Design,Computer Science,Mobile and Web Development,Course,Beginner,12.0,4.7,4331.0,https://www.coursera.org/learn/responsivedesign?specialization=web-design
+439,Business Writing,Business,Business Essentials,Course,Beginner,12.0,4.8,4286.0,https://www.coursera.org/learn/writing-for-business?specialization=effective-business-communication
+440,Basic Statistics,Data Science,Probability and Statistics,Course,Intermediate,26.0,4.6,4285.0,https://www.coursera.org/learn/basic-statistics?specialization=social-science
+441,MATLAB Programming for Engineers and Scientists Specialization,Computer Science,Software Development,Specialization,Advanced,120.0,4.8,4284.0,https://www.coursera.org/specializations/matlab-programming-engineers-scientists
+442,Iniciación y Planificación de Proyectos,Business,Leadership and Management,Course,Beginner,5.0,4.7,4261.0,https://www.coursera.org/learn/planificacion-proyectos?specialization=administracion-proyectos
+443,Financial Accounting: Foundations,Business,Finance,Course,Intermediate,14.0,4.7,4256.0,https://www.coursera.org/learn/financial-accounting-basics?specialization=business-data-management-communication
+444,Introduction to Genomic Technologies,Data Science,Data Analysis,Course,Beginner,6.0,4.6,4248.0,https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science
+445,Launching into Machine Learning,Data Science,Machine Learning,Course,Intermediate,17.0,4.6,4234.0,https://www.coursera.org/learn/launching-machine-learning?specialization=machine-learning-tensorflow-gcp
+446,Cybersecurity Specialization,Computer Science,Computer Security and Networks,Specialization,Advanced,160.0,4.6,4210.0,https://www.coursera.org/specializations/cyber-security
+447,Food & Beverage Management,Business,Leadership and Management,Course,Intermediate,13.0,4.8,4166.0,https://www.coursera.org/learn/food-beverage-management
+448,Reproducible Research,Data Science,Data Analysis,Course,Beginner,7.0,4.6,4139.0,https://www.coursera.org/learn/reproducible-research?specialization=data-science-foundations-r
+449,Strategic Management,Business,Business Strategy,Course,Beginner,10.0,4.7,4113.0,https://www.coursera.org/learn/strategic-management?specialization=strategic-management
+450,Cryptography I,Computer Science,Computer Security and Networks,Course,Intermediate,23.0,4.8,4084.0,https://www.coursera.org/learn/crypto
+451,"Effective Communication: Writing, Design, and Presentation Specialization",Business,Business Essentials,Specialization,Advanced,100.0,4.8,4077.0,https://www.coursera.org/specializations/effective-business-communication
+452,Building Web Applications in PHP,Computer Science,Mobile and Web Development,Course,Intermediate,30.0,4.7,4076.0,https://www.coursera.org/learn/web-applications-php?specialization=web-applications
+453,Entrepreneurship 1: Developing the Opportunity,Business,Finance,Course,Beginner,10.0,4.8,4064.0,https://www.coursera.org/learn/wharton-entrepreneurship-opportunity
+454,What is Social?,Business,Marketing,Course,Beginner,7.0,4.6,4051.0,https://www.coursera.org/learn/what-is-social?specialization=social-media-marketing
+455,"Recruiting, Hiring, and Onboarding Employees",Business,Business Essentials,Course,Intermediate,20.0,4.7,4033.0,https://www.coursera.org/learn/recruiting-hiring-onboarding-employees?specialization=human-resource-management
+456,Managing Big Data with MySQL,Data Science,Data Analysis,Course,Intermediate,32.0,4.7,3999.0,https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql
+457,Introducción a la programación en Python I: Aprendiendo a programar con Python,Computer Science,Software Development,Course,Intermediate,17.0,4.4,3982.0,https://www.coursera.org/learn/aprendiendo-programar-python
+458,"Excel/VBA for Creative Problem Solving, Part 1",Computer Science,Algorithms,Course,Intermediate,20.0,4.8,3981.0,https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1
+459,The Strategy of Content Marketing,Business,Marketing,Course,Intermediate,20.0,4.5,3974.0,https://www.coursera.org/learn/content-marketing
+460,Social Media Management ,Business,Marketing,Course,Beginner,11.0,4.9,3963.0,https://www.coursera.org/learn/social-media-management
+461,New Models of Business in Society,Business,Leadership and Management,Course,Beginner,5.0,4.7,3943.0,https://www.coursera.org/learn/uva-darden-business-society?specialization=entrepreneurship-growing-your-business
+462,Mastering Data Analysis in Excel,Data Science,Data Analysis,Course,Intermediate,21.0,4.2,3883.0,https://www.coursera.org/learn/analytics-excel?specialization=excel-mysql
+463,Natural Language Processing with Classification and Vector Spaces,Data Science,Machine Learning,Course,Intermediate,34.0,4.6,3876.0,https://www.coursera.org/learn/classification-vector-spaces-in-nlp
+464,Influencing People,Business,Business Essentials,Course,Beginner,10.0,4.8,3779.0,https://www.coursera.org/learn/influencing-people?specialization=leading-teams
+465,Supply Chain Operations,Business,Business Strategy,Course,Beginner,11.0,4.8,3779.0,https://www.coursera.org/learn/operations?specialization=supply-chain-management
+466,Applied Text Mining in Python,Data Science,Data Analysis,Course,Intermediate,25.0,4.2,3743.0,https://www.coursera.org/learn/python-text-mining?specialization=data-science-python
+467,Análisis de Datos de Google Professional Certificate,Data Science,Análisis de Datos,Professional Certificate,Advanced,120.0,5.0,3735.0,https://www.coursera.org/professional-certificates/analisis-de-datos-de-google
+468,Object Oriented Programming in Java Specialization,Computer Science,Software Development,Specialization,Advanced,100.0,4.6,3723.0,https://www.coursera.org/specializations/object-oriented-programming
+469,Data Collection and Processing with Python,Computer Science,Software Development,Course,Intermediate,16.0,4.7,3709.0,https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming
+470,Python and Statistics for Financial Analysis,Business,Finance,Course,Beginner,12.0,4.4,3708.0,https://www.coursera.org/learn/python-statistics-financial-analysis
+471,Machine Learning: Classification,Data Science,Machine Learning,Course,Intermediate,21.0,4.7,3692.0,https://www.coursera.org/learn/ml-classification?specialization=machine-learning
+472,Introduction to Spreadsheets and Models,Business,Business Essentials,Course,Beginner,5.0,4.2,3680.0,https://www.coursera.org/learn/wharton-introduction-spreadsheets-models
+473,Intuit Academy Bookkeeping Professional Certificate,Business,Business Essentials,Professional Certificate,Advanced,80.0,4.5,3676.0,https://www.coursera.org/professional-certificates/intuit-bookkeeping
+474,Conduct UX Research and Test Early Concepts,Computer Science,Design and Product,Course,Intermediate,24.0,4.8,3617.0,https://www.coursera.org/learn/conduct-ux-research
+475,Behavioral Finance,Business,Finance,Course,Beginner,5.0,4.4,3609.0,https://www.coursera.org/learn/duke-behavioral-finance
+476,Fundamentals of Management,Business,Leadership and Management,Course,Beginner,6.0,4.6,3609.0,https://www.coursera.org/learn/fundamentals-of-management?specialization=career-success
+477,High-Impact Business Writing,Business,Business Essentials,Course,Beginner,6.0,4.5,3608.0,https://www.coursera.org/learn/business-writing?specialization=project-management-success
+478,Gestión de Proyectos de Google Professional Certificate,Business,Liderazgo y Gestión,Professional Certificate,Advanced,120.0,4.9,3592.0,https://www.coursera.org/professional-certificates/gestion-de-proyectos-de-google
+479,Managing Machine Learning Projects with Google Cloud,Data Science,Machine Learning,Course,Intermediate,13.0,4.6,3589.0,https://www.coursera.org/learn/machine-learning-business-professionals?specialization=digital-transformation-using-ai-ml-with-google-cloud
+480,Excel/VBA for Creative Problem Solving Specialization,Computer Science,Design and Product,Specialization,Advanced,80.0,4.8,3552.0,https://www.coursera.org/specializations/excel-vba-creative-problem-solving
+481,Strategic Management and Innovation Specialization,Business,Business Strategy,Specialization,Advanced,120.0,4.7,3533.0,https://www.coursera.org/specializations/strategic-management
+482,Introduction to Web Development,Computer Science,Mobile and Web Development,Course,Intermediate,21.0,4.7,3526.0,https://www.coursera.org/learn/web-development
+483,Six Sigma Green Belt Specialization,Business,Business Essentials,Specialization,Advanced,100.0,4.7,3495.0,https://www.coursera.org/specializations/six-sigma-green-belt
+484,Python Classes and Inheritance,Computer Science,Software Development,Course,Intermediate,17.0,4.7,3434.0,https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming
+485,Marketing Strategy Specialization,Business,Marketing,Specialization,Advanced,120.0,4.4,3430.0,https://www.coursera.org/specializations/marketing-strategy
+486,Marketing Mix Implementation Specialization,Business,Marketing,Specialization,Advanced,120.0,4.6,3356.0,https://www.coursera.org/specializations/marketing-mix
+487,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Computer Science,Algorithms,Course,Intermediate,43.0,4.9,3352.0,https://www.coursera.org/learn/build-a-computer
+488,The Manager's Toolkit: A Practical Guide to Managing People at Work,Business,Leadership and Management,Course,Intermediate,28.0,4.7,3351.0,https://www.coursera.org/learn/people-management
+489,Managing the Company of the Future,Business,Leadership and Management,Course,Beginner,12.0,4.8,3342.0,https://www.coursera.org/learn/company-future-management
+490,Object Oriented Java Programming: Data Structures and Beyond Specialization,Computer Science,Software Development,Specialization,Advanced,140.0,4.7,3341.0,https://www.coursera.org/specializations/java-object-oriented
+491,Python Programming Essentials,Computer Science,Software Development,Course,Beginner,9.0,4.8,3340.0,https://www.coursera.org/learn/python-programming?specialization=introduction-scripting-in-python
+492,Regression Models,Data Science,Probability and Statistics,Course,Intermediate,53.0,4.4,3322.0,https://www.coursera.org/learn/regression-models?specialization=data-science-statistics-machine-learning
+493,Fintech: Foundations & Applications of Financial Technology Specialization,Business,Business Essentials,Specialization,Advanced,80.0,4.6,3316.0,https://www.coursera.org/specializations/wharton-fintech
+494,Agile Meets Design Thinking,Computer Science,Design and Product,Course,Beginner,9.0,4.7,3298.0,https://www.coursera.org/learn/uva-darden-getting-started-agile
+495,Administración de Proyectos: Principios Básicos Specialization,Business,Leadership and Management,Specialization,Advanced,100.0,4.7,3297.0,https://www.coursera.org/specializations/administracion-proyectos
+496,Managing Data Analysis,Business,Leadership and Management,Course,Beginner,8.0,4.6,3284.0,https://www.coursera.org/learn/managing-data-analysis?specialization=executive-data-science
+497,Introduction to Machine Learning,Data Science,Machine Learning,Course,Intermediate,21.0,4.7,3264.0,https://www.coursera.org/learn/machine-learning-duke
+498,Building a Data Science Team,Data Science,Data Analysis,Course,Beginner,5.0,4.5,3255.0,https://www.coursera.org/learn/build-data-science-team?specialization=executive-data-science
+499,Digital Marketing Analytics in Practice,Data Science,Data Analysis,Course,Intermediate,20.0,4.5,3247.0,https://www.coursera.org/learn/digital-analytics?specialization=digital-marketing
+500,Usable Security,Computer Science,Computer Security and Networks,Course,Beginner,11.0,4.6,3246.0,https://www.coursera.org/learn/usable-security?specialization=cyber-security
+501,Getting Started with Power BI Desktop,Business,Business Essentials,Project,Beginner,2.0,4.7,3242.0,https://www.coursera.org/projects/power-bi-desktop
+502,Practical Machine Learning,Data Science,Machine Learning,Course,Beginner,8.0,4.5,3219.0,https://www.coursera.org/learn/practical-machine-learning?specialization=data-science-statistics-machine-learning
+503,Google SEO Fundamentals,Business,Marketing,Course,Intermediate,29.0,4.8,3217.0,https://www.coursera.org/learn/seo-fundamentals
+504,An Introduction to Interactive Programming in Python (Part 1),Computer Science,Software Development,Course,Intermediate,19.0,4.8,3208.0,https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals
+505,Bookkeeping Basics,Business,Business Essentials,Course,Intermediate,16.0,4.6,3207.0,https://www.coursera.org/learn/bookkeeping-basics
+506,Machine Learning for All,Computer Science,Software Development,Course,Intermediate,21.0,4.7,3164.0,https://www.coursera.org/learn/uol-machine-learning-for-all
+507,Six Sigma and the Organization (Advanced),Business,Leadership and Management,Course,Intermediate,16.0,4.7,3154.0,https://www.coursera.org/learn/six-sigma-organization-advanced?specialization=six-sigma-green-belt
+508,Data Visualization and Communication with Tableau,Data Science,Data Analysis,Course,Intermediate,24.0,4.7,3154.0,https://www.coursera.org/learn/analytics-tableau?specialization=excel-mysql
+509,Excel Fundamentals for Data Analysis,Business,Business Essentials,Course,Intermediate,15.0,4.8,3154.0,https://www.coursera.org/learn/excel-data-analysis-fundamentals
+510,Database Management Essentials,Computer Science,Software Development,Course,Intermediate,105.0,4.6,3149.0,https://www.coursera.org/learn/database-management?specialization=data-warehousing
+511,Code Yourself! An Introduction to Programming,Computer Science,Software Development,Course,Beginner,11.0,4.7,3147.0,https://www.coursera.org/learn/intro-programming
+512,Functional Program Design in Scala,Computer Science,Software Development,Course,Intermediate,35.0,4.5,3121.0,https://www.coursera.org/learn/scala-functional-program-design?specialization=scala
+513,Engineering Project Management: Initiating and Planning,Business,Leadership and Management,Course,Intermediate,19.0,4.8,3106.0,https://www.coursera.org/learn/initiating-planning?specialization=engineering-project-management
+514,Fundamentos de la gestión de proyectos,Business,Leadership and Management,Course,Intermediate,15.0,4.9,3097.0,https://www.coursera.org/learn/fundamentos-de-la-gestion-de-proyectos
+515,Interaction Design Specialization,Computer Science,Design and Product,Specialization,Advanced,200.0,4.5,3077.0,https://www.coursera.org/specializations/interaction-design
+516,"Everyday Excel, Part 1",Computer Science,Design and Product,Course,Intermediate,23.0,4.7,3074.0,https://www.coursera.org/learn/everyday-excel-part-1?specialization=everyday-excel
+517,Python Project for Data Science,Data Science,Data Analysis,Course,Beginner,8.0,4.5,3071.0,https://www.coursera.org/learn/python-project-for-data-science
+518,Teamwork Skills: Communicating Effectively in Groups,Business,Leadership and Management,Course,Beginner,11.0,4.7,3071.0,https://www.coursera.org/learn/teamwork-skills-effective-communication
+519,Bayesian Statistics: From Concept to Data Analysis,Data Science,Probability and Statistics,Course,Beginner,11.0,4.6,3062.0,https://www.coursera.org/learn/bayesian-statistics?specialization=bayesian-statistics
+520,"Java Programming: Arrays, Lists, and Structured Data",Computer Science,Software Development,Course,Intermediate,14.0,4.7,3051.0,https://www.coursera.org/learn/java-programming-arrays-lists-data?specialization=object-oriented-programming
+521,Communication in the 21st Century Workplace,Business,Business Essentials,Course,Beginner,10.0,4.5,3046.0,https://www.coursera.org/learn/communication-in-the-workplace?specialization=career-success
+522,Competitive Strategy,Business,Business Strategy,Course,Intermediate,19.0,4.7,3044.0,https://www.coursera.org/learn/competitive-strategy?specialization=competitive-strategy
+523,Introduction to Data Analytics for Business,Data Science,Data Analysis,Course,Beginner,11.0,4.7,3034.0,https://www.coursera.org/learn/data-analytics-business?specialization=data-analytics-business
+524,AWS Fundamentals: Addressing Security Risk,Information Technology,Cloud Computing,Course,Beginner,5.0,4.4,3027.0,https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk?specialization=aws-fundamentals
+525,Client Needs and Software Requirements ,Computer Science,Design and Product,Course,Beginner,12.0,4.8,3026.0,https://www.coursera.org/learn/client-needs-and-software-requirements?specialization=product-management
+526,Java for Android,Computer Science,Mobile and Web Development,Course,Intermediate,38.0,4.5,2998.0,https://www.coursera.org/learn/java-for-android?specialization=android-app-development
+527,Mathematics for Machine Learning: PCA,Data Science,Machine Learning,Course,Intermediate,20.0,4.1,2965.0,https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning
+528,Reinforcement Learning Specialization,Data Science,Machine Learning,Specialization,Advanced,100.0,4.8,2965.0,https://www.coursera.org/specializations/reinforcement-learning
+529,Project Management Project,Business,Business Essentials,Course,Beginner,6.0,4.8,2963.0,https://www.coursera.org/learn/project-management-capstone?specialization=project-management
+530,Big Data Modeling and Management Systems,Data Science,Data Analysis,Course,Intermediate,13.0,4.4,2961.0,https://www.coursera.org/learn/big-data-management?specialization=big-data
+531,An Introduction to Consumer Neuroscience & Neuromarketing ,Business,Leadership and Management,Course,Intermediate,25.0,4.7,2957.0,https://www.coursera.org/learn/neuromarketing
+532,Engineering Project Management Specialization,Business,Leadership and Management,Specialization,Advanced,80.0,4.8,2956.0,https://www.coursera.org/specializations/engineering-project-management
+533,Digital Media and Marketing Strategies,Business,Marketing,Course,Intermediate,20.0,4.6,2944.0,https://www.coursera.org/learn/marketing-plan?specialization=digital-marketing
+534,"Aspectos básicos: Datos, datos, en todas partes",Data Science,Data Analysis,Course,Intermediate,19.0,4.8,2934.0,https://www.coursera.org/learn/aspectos-basicos-datos-datos-en-todas-partes
+535,Graphic Design,Business,Business Essentials,Course,Intermediate,29.0,4.8,2927.0,https://www.coursera.org/learn/presentation-design?specialization=effective-business-communication
+536,AWS Fundamentals: Building Serverless Applications,Information Technology,Cloud Computing,Course,Beginner,10.0,4.7,2905.0,https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications?specialization=aws-fundamentals
+537,Accounting Analytics,Business,Finance,Course,Beginner,9.0,4.5,2894.0,https://www.coursera.org/learn/accounting-analytics?specialization=business-analytics
+538,International Leadership and Organizational Behavior,Business,Leadership and Management,Course,Intermediate,16.0,4.8,2889.0,https://www.coursera.org/learn/organizational-behavior
+539,Cybersecurity Compliance Framework & System Administration,Information Technology,Security,Course,Intermediate,17.0,4.7,2882.0,https://www.coursera.org/learn/cybersecurity-compliance-framework-system-administration
+540,The Art of Negotiation,Business,Business Essentials,Course,Beginner,6.0,4.5,2870.0,https://www.coursera.org/learn/art-of-negotiation?specialization=career-success
+541,Fundamentals of Computing Specialization,Computer Science,Software Development,Specialization,Advanced,140.0,4.8,2867.0,https://www.coursera.org/specializations/computer-fundamentals
+542,Data Visualization with Advanced Excel,Data Science,Data Analysis,Course,Intermediate,15.0,4.8,2859.0,https://www.coursera.org/learn/advanced-excel?specialization=pwc-analytics
+543,IBM Data Engineering Professional Certificate,Information Technology,Data Management,Professional Certificate,Advanced,100.0,4.6,2853.0,https://www.coursera.org/professional-certificates/ibm-data-engineer
+544,Introduction to Scripting in Python Specialization,Computer Science,Software Development,Specialization,Advanced,80.0,4.7,2852.0,https://www.coursera.org/specializations/introduction-scripting-in-python
+545,Accounting: Principles of Financial Accounting,Business,Finance,Course,Beginner,12.0,4.8,2825.0,https://www.coursera.org/learn/financial-accounting
+546,Getting Started with SAS Programming,Data Science,Data Analysis,Course,Intermediate,24.0,4.8,2817.0,https://www.coursera.org/learn/sas-programming-basics
+547,Network Security & Database Vulnerabilities ,Information Technology,Security,Course,Intermediate,14.0,4.7,2808.0,https://www.coursera.org/learn/network-security-database-vulnerabilities
+548,SAS Programmer Professional Certificate,Data Science,Data Analysis,Professional Certificate,Advanced,100.0,4.8,2808.0,https://www.coursera.org/professional-certificates/sas-programming
+549,"Information Systems Auditing, Controls and Assurance",Information Technology,Security,Course,Beginner,8.0,4.7,2801.0,https://www.coursera.org/learn/information-systems-audit
+550,Foundations of Business Strategy,Business,Business Strategy,Course,Beginner,9.0,4.8,2791.0,https://www.coursera.org/learn/uva-darden-foundations-business-strategy
+551,Android App Development Specialization,Computer Science,Mobile and Web Development,Specialization,Advanced,100.0,4.5,2782.0,https://www.coursera.org/specializations/android-app-development
+552,Machine Learning Engineering for Production (MLOps) Specialization,Data Science,Machine Learning,Specialization,Advanced,80.0,4.7,2780.0,https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
+553,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Business,Leadership and Management,Course,Intermediate,14.0,4.8,2773.0,https://www.coursera.org/learn/leadership-collaboration?specialization=organizational-leadership
+554,Object-Oriented Data Structures in C++,Computer Science,Software Development,Course,Intermediate,21.0,4.7,2763.0,https://www.coursera.org/learn/cs-fundamentals-1
+555,Essentials of Entrepreneurship: Thinking & Action,Business,Entrepreneurship,Course,Beginner,5.0,4.6,2753.0,https://www.coursera.org/learn/entrepreneurial-thinking?specialization=career-success
+556,Digital Media and Marketing Principles,Business,Marketing,Course,Intermediate,20.0,4.4,2748.0,https://www.coursera.org/learn/marketing-channels?specialization=digital-marketing
+557,Agile Development Specialization,Computer Science,Design and Product,Specialization,Advanced,80.0,4.7,2736.0,https://www.coursera.org/specializations/agile-development
+558,TensorFlow on Google Cloud,Data Science,Machine Learning,Course,Intermediate,15.0,4.4,2716.0,https://www.coursera.org/learn/intro-tensorflow?specialization=machine-learning-tensorflow-gcp
+559,"Autoridad, dirección y liderazgo",Business,Leadership and Management,Course,Beginner,8.0,4.8,2710.0,https://www.coursera.org/learn/autoridad?specialization=habilidades
+560,Create High-Fidelity Designs and Prototypes in Figma,Computer Science,Design and Product,Course,Intermediate,39.0,4.8,2704.0,https://www.coursera.org/learn/high-fidelity-designs-prototype
+561,Leading the Modern Day Business Specialization,Business,Leadership and Management,Specialization,Advanced,80.0,4.7,2699.0,https://www.coursera.org/specializations/leading-modern-day-business
+562,Human-Centered Design: an Introduction,Computer Science,Design and Product,Course,Intermediate,14.0,4.7,2699.0,https://www.coursera.org/learn/human-computer-interaction?specialization=interaction-design
+563,Introduction to Self-Driving Cars,Computer Science,Software Development,Course,Intermediate,35.0,4.7,2698.0,https://www.coursera.org/learn/intro-self-driving-cars
+564,Supply Chain Planning,Business,Business Strategy,Course,Intermediate,13.0,4.7,2698.0,https://www.coursera.org/learn/planning?specialization=supply-chain-management
+565,The Raspberry Pi Platform and Python Programming for the Raspberry Pi,Computer Science,Software Development,Course,Beginner,11.0,4.7,2689.0,https://www.coursera.org/learn/raspberry-pi-platform?specialization=iot
+566,Modernizing Data Lakes and Data Warehouses with Google Cloud,Information Technology,Cloud Computing,Course,Beginner,7.0,4.7,2687.0,https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-machine-learning
+567,Attract and Engage Customers with Digital Marketing,Business,Marketing,Course,Intermediate,21.0,4.8,2684.0,https://www.coursera.org/learn/attract-and-engage-customers
+568,Digital Product Management Specialization,Computer Science,Design and Product,Specialization,Advanced,100.0,4.8,2681.0,https://www.coursera.org/specializations/uva-darden-digital-product-management
+569,Getting Started with AI using IBM Watson,Data Science,Machine Learning,Course,Beginner,9.0,4.5,2666.0,https://www.coursera.org/learn/ai-with-ibm-watson
+570,Introduction to Cyber Security Specialization,Computer Science,Computer Security and Networks,Specialization,Advanced,80.0,4.7,2665.0,https://www.coursera.org/specializations/intro-cyber-security
+571,Applied Social Network Analysis in Python,Data Science,Data Analysis,Course,Intermediate,26.0,4.6,2657.0,https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python
+572,Everyday Parenting: The ABCs of Child Rearing,Health,Psychology,Course,Intermediate,21.0,4.9,2656.0,https://www.coursera.org/learn/everyday-parenting
+573,Statistics with Python Specialization,Data Science,Probability and Statistics,Specialization,Intermediate,60.0,4.6,2647.0,https://www.coursera.org/specializations/statistics-with-python
+574,Data Visualization and Dashboards with Excel and Cognos,Data Science,Data Analysis,Course,Beginner,9.0,4.7,2606.0,https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos
+575,Introduction to Cyber Attacks,Computer Science,Computer Security and Networks,Course,Intermediate,18.0,4.7,2596.0,https://www.coursera.org/learn/intro-cyber-attacks
+576,Understanding the Brain: The Neurobiology of Everyday Life,Health,Basic Science,Course,Intermediate,27.0,4.9,2590.0,https://www.coursera.org/learn/neurobiology
+577,Medical Neuroscience,Health,Research,Course,Intermediate,71.0,4.9,2589.0,https://www.coursera.org/learn/medical-neuroscience
+578,Big Data Analysis with Scala and Spark,Computer Science,Algorithms,Course,Intermediate,27.0,4.6,2575.0,https://www.coursera.org/learn/scala-spark-big-data?specialization=scala
+579,The Science of Stem Cells,Health,Basic Science,Course,Beginner,10.0,4.7,2569.0,https://www.coursera.org/learn/stem-cells
+580,Meta Back-End Developer Professional Certificate,Computer Science,Mobile and Web Development,Professional Certificate,Advanced,160.0,4.7,2565.0,https://www.coursera.org/professional-certificates/meta-back-end-developer
+581,Excel Skills for Data Analytics and Visualization Specialization,Business,Business Essentials,Specialization,Advanced,80.0,4.8,2560.0,https://www.coursera.org/specializations/excel-data-analytics-visualization
+582,Fundamentals of Reinforcement Learning,Data Science,Machine Learning,Course,Intermediate,15.0,4.8,2552.0,https://www.coursera.org/learn/fundamentals-of-reinforcement-learning
+583,Introduction to Operations Management,Business,Leadership and Management,Course,Beginner,9.0,4.4,2537.0,https://www.coursera.org/learn/wharton-operations?specialization=wharton-business-foundations
+584,Building Your Leadership Skills,Business,Leadership and Management,Course,Intermediate,17.0,4.6,2535.0,https://www.coursera.org/learn/leadership-skills?specialization=inspirational-leadership
+585,Managerial Economics and Business Analysis  Specialization,Business,Finance,Specialization,Advanced,140.0,4.7,2525.0,https://www.coursera.org/specializations/managerial-economics-business-analysis
+586,Business Strategy Specialization,Business,Business Strategy,Specialization,Advanced,120.0,4.8,2524.0,https://www.coursera.org/specializations/business-strategy
+587,Self-Driving Cars Specialization,Computer Science,Software Development,Specialization,Advanced,140.0,4.7,2509.0,https://www.coursera.org/specializations/self-driving-cars
+588,Finance for Non-Finance Professionals,Business,Finance,Course,Intermediate,13.0,4.8,2490.0,https://www.coursera.org/learn/finance-for-non-finance
+589,Understanding and Visualizing Data with Python,Data Science,Data Analysis,Course,Intermediate,20.0,4.7,2480.0,https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python
+590,Organizational Leadership Specialization,Business,Leadership and Management,Specialization,Advanced,140.0,4.7,2479.0,https://www.coursera.org/specializations/organizational-leadership
+591,Coding for Everyone: C and C++ Specialization,Computer Science,Software Development,Specialization,Advanced,120.0,4.4,2473.0,https://www.coursera.org/specializations/coding-for-everyone
+592,Software Design and Architecture Specialization,Computer Science,Software Development,Specialization,Advanced,80.0,4.6,2473.0,https://www.coursera.org/specializations/software-design-architecture
+593,Brand and Product Management,Business,Marketing,Course,Intermediate,14.0,4.7,2463.0,https://www.coursera.org/learn/brand-management?specialization=marketing-mix
+594,Introduction to Discrete Mathematics for Computer Science Specialization,Computer Science,Algorithms,Specialization,Advanced,120.0,4.5,2447.0,https://www.coursera.org/specializations/discrete-mathematics
+595,Machine Learning With Big Data,Data Science,Machine Learning,Course,Intermediate,21.0,4.6,2427.0,https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
+596,Managing Social and Human Capital,Business,Leadership and Management,Course,Beginner,7.0,4.6,2425.0,https://www.coursera.org/learn/wharton-social-human-capital?specialization=wharton-business-foundations
+597,Finance & Quantitative Modeling for Analysts Specialization,Business,Finance,Specialization,Advanced,80.0,4.5,2412.0,https://www.coursera.org/specializations/finance-quantitative-modeling-analysts
+598,"Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",Data Science,Data Analysis,Course,Intermediate,20.0,4.7,2387.0,https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application?specialization=business-statistics-analysis
+599,Managing Employee Performance,Business,Business Essentials,Course,Intermediate,15.0,4.7,2385.0,https://www.coursera.org/learn/employee-performance?specialization=human-resource-management
+600,Gamification,Computer Science,Design and Product,Course,Intermediate,17.0,4.8,2381.0,https://www.coursera.org/learn/gamification
+601,Introduction to Machine Learning in Production,Data Science,Machine Learning,Course,Beginner,11.0,4.8,2377.0,https://www.coursera.org/learn/introduction-to-machine-learning-in-production
+602,Big Data Integration and Processing,Data Science,Data Analysis,Course,Intermediate,17.0,4.4,2375.0,https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data
+603,Building AI Powered Chatbots Without Programming,Computer Science,Design and Product,Course,Beginner,10.0,4.8,2370.0,https://www.coursera.org/learn/building-ai-powered-chatbots
+604,Financial Accounting Fundamentals,Business,Business Essentials,Course,Intermediate,13.0,4.8,2362.0,https://www.coursera.org/learn/uva-darden-financial-accounting
+605,Architecting with Google Kubernetes Engine: Foundations,Computer Science,Software Development,Course,Beginner,8.0,4.7,2355.0,https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke?specialization=architecting-google-kubernetes-engine
+606,Firm Level Economics: Consumer and Producer Behavior,Business,Finance,Course,Intermediate,17.0,4.8,2342.0,https://www.coursera.org/learn/firm-level-economics?specialization=managerial-economics-business-analysis
+607,Accelerated Computer Science Fundamentals Specialization,Computer Science,Algorithms,Specialization,Intermediate,60.0,4.7,2340.0,https://www.coursera.org/specializations/cs-fundamentals
+608,Corporate Finance Essentials,Business,Finance,Course,Intermediate,13.0,4.8,2335.0,https://www.coursera.org/learn/corporate-finance-essentials?specialization=thinklikeacfo
+609,Data Science in Real Life,Data Science,Data Analysis,Course,Beginner,7.0,4.4,2335.0,https://www.coursera.org/learn/real-life-data-science?specialization=executive-data-science
+610,Advanced Data Science with IBM Specialization,Data Science,Machine Learning,Specialization,Advanced,80.0,4.4,2335.0,https://www.coursera.org/specializations/advanced-data-science-ibm
+611,Machine Learning: Clustering & Retrieval,Data Science,Data Analysis,Course,Intermediate,17.0,4.7,2318.0,https://www.coursera.org/learn/ml-clustering-and-retrieval?specialization=machine-learning
+612,Data Warehousing for Business Intelligence Specialization,Data Science,Data Analysis,Specialization,Advanced,160.0,4.5,2316.0,https://www.coursera.org/specializations/data-warehousing
+613,Data Science Fundamentals with Python and SQL Specialization,Data Science,Data Analysis,Specialization,Advanced,140.0,4.6,2295.0,https://www.coursera.org/specializations/data-science-fundamentals-python-sql
+614,Introduction to Blockchain Technologies,Business,Business Essentials,Course,Intermediate,28.0,4.7,2293.0,https://www.coursera.org/learn/introduction-blockchain-technologies?specialization=blockchain-revolution-enterprise
+615,Google Professional Workspace Administrator Professional Certificate,Computer Science,Computer Security and Networks,Professional Certificate,Intermediate,20.0,4.7,2291.0,https://www.coursera.org/professional-certificates/g-suite-administration
+616,Portfolio and Risk Management,Business,Finance,Course,Beginner,7.0,4.7,2288.0,https://www.coursera.org/learn/portfolio-risk-management?specialization=investment-management
+617,Programming with Google Go Specialization,Computer Science,Software Development,Specialization,Intermediate,60.0,4.6,2281.0,https://www.coursera.org/specializations/google-golang
+618,"FinTech: Foundations, Payments, and Regulations",Business,Business Essentials,Course,Beginner,6.0,4.6,2269.0,https://www.coursera.org/learn/wharton-fintech-overview-payments-regulations
+619,Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate,Information Technology,Cloud Computing,Professional Certificate,Advanced,100.0,4.8,2262.0,https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud
+620,Developing Data Products,Data Science,Data Analysis,Course,Beginner,10.0,4.6,2248.0,https://www.coursera.org/learn/data-products?specialization=data-science-statistics-machine-learning
+621,Six Sigma Tools for Define and Measure,Business,Business Essentials,Course,Beginner,8.0,4.6,2246.0,https://www.coursera.org/learn/six-sigma-tools-define-measure?specialization=six-sigma-fundamentals
+622,Understanding Cancer Metastasis,Health,Basic Science,Course,Beginner,5.0,4.9,2231.0,https://www.coursera.org/learn/cancer-metastasis?specialization=cancer-biology
+623,Advanced Learning Algorithms,Data Science,Machine Learning,Course,Intermediate,34.0,4.9,2220.0,https://www.coursera.org/learn/advanced-learning-algorithms
+624,AI Foundations for Everyone Specialization,Data Science,Data Analysis,Specialization,Intermediate,60.0,4.7,2218.0,https://www.coursera.org/specializations/ai-foundations-for-everyone
+625,Managing Talent,Business,Leadership and Management,Course,Intermediate,13.0,4.6,2218.0,https://www.coursera.org/learn/managing-talent?specialization=leading-teams
+626,"C++ For C Programmers, Part A",Computer Science,Software Development,Course,Intermediate,13.0,4.4,2218.0,https://www.coursera.org/learn/c-plus-plus-a?specialization=coding-for-everyone
+627,Smart Contracts,Computer Science,Software Development,Course,Intermediate,17.0,4.6,2204.0,https://www.coursera.org/learn/smarter-contracts?specialization=blockchain
+628,"Integrated Marketing Communications: Advertising, Public Relations, Digital Marketing and more",Business,Marketing,Course,Beginner,11.0,4.7,2200.0,https://www.coursera.org/learn/integrated-marketing-communications?specialization=marketing-mix
+629,Introduction to C# Programming and Unity,Computer Science,Software Development,Course,Intermediate,18.0,4.7,2194.0,https://www.coursera.org/learn/introduction-programming-unity?specialization=programming-unity-game-development
+630,Data Structures and Performance,Computer Science,Algorithms,Course,Intermediate,41.0,4.8,2189.0,https://www.coursera.org/learn/data-structures-optimizing-performance?specialization=object-oriented-programming
+631,Algorithms on Graphs,Computer Science,Algorithms,Course,Intermediate,55.0,4.7,2189.0,https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms
+632,Design a User Experience for Social Good & Prepare for Jobs,Computer Science,Design and Product,Course,Intermediate,62.0,4.8,2176.0,https://www.coursera.org/learn/ux-design-jobs
+633,Data Analysis and Visualization Foundations Specialization,Data Science,Data Analysis,Specialization,Advanced,80.0,4.8,2171.0,https://www.coursera.org/specializations/data-analysis-visualization-foundations
+634,Gestión del talento humano,Business,Leadership and Management,Course,Beginner,7.0,4.8,2170.0,https://www.coursera.org/learn/gestion-del-talento?specialization=habilidades
+635,C# Programming for Unity Game Development Specialization,Computer Science,Software Development,Specialization,Advanced,100.0,4.7,2165.0,https://www.coursera.org/specializations/programming-unity-game-development
+636,Modeling Risk and Realities,Business,Business Essentials,Course,Beginner,7.0,4.6,2159.0,https://www.coursera.org/learn/wharton-risk-models?specialization=wharton-business-financial-modeling
+637,Introduction to Statistics,Data Science,Data Analysis,Course,Intermediate,14.0,4.6,2156.0,https://www.coursera.org/learn/stanford-statistics
+638,Object-Oriented Design,Computer Science,Software Development,Course,Intermediate,17.0,4.7,2152.0,https://www.coursera.org/learn/object-oriented-design?specialization=software-design-architecture
+639,Responsive Web Design in Adobe XD,Computer Science,Design and Product,Course,Intermediate,42.0,4.8,2146.0,https://www.coursera.org/learn/responsive-web-design-adobe-xd
+640,Leading Teams: Building Effective Team Cultures,Business,Leadership and Management,Course,Beginner,12.0,4.8,2139.0,https://www.coursera.org/learn/leading-teams-building-effective-team-cultures?specialization=strategic-leadership
+641,Drug Development,Health,Research,Course,Beginner,9.0,4.7,2125.0,https://www.coursera.org/learn/drug-development?specialization=drug-development-product-management
+642,Mathematical Thinking in Computer Science,Computer Science,Algorithms,Course,Intermediate,41.0,4.4,2122.0,https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics
+643,Getting Started with Go,Computer Science,Software Development,Course,Beginner,10.0,4.6,2118.0,https://www.coursera.org/learn/golang-getting-started
+644,Getting Started With Application Development,Computer Science,Software Development,Course,Intermediate,13.0,4.5,2113.0,https://www.coursera.org/learn/getting-started-app-development?specialization=developing-apps-gcp
+645,"GIS, Mapping, and Spatial Analysis Specialization",Data Science,Data Analysis,Specialization,Advanced,120.0,4.9,2107.0,https://www.coursera.org/specializations/gis-mapping-spatial-analysis
+646,Marketing Digital,Business,Marketing,Course,Intermediate,16.0,4.8,2092.0,https://www.coursera.org/learn/estrategia-marketing-digital
+647,Blockchain Revolution Specialization,Computer Science,Software Development,Specialization,Advanced,100.0,4.7,2091.0,https://www.coursera.org/specializations/blockchain-revolution-enterprise
+648,Introduction to Forensic Science,Health,Basic Science,Course,Intermediate,18.0,4.9,2087.0,https://www.coursera.org/learn/forensic-science
+649,Anatomy: Musculoskeletal and Integumentary Systems,Health,Basic Science,Course,Intermediate,25.0,4.8,2082.0,https://www.coursera.org/learn/anatomy403-1x?specialization=anatomy
+650,Leading Teams,Business,Leadership and Management,Course,Beginner,10.0,4.8,2049.0,https://www.coursera.org/learn/leading-teams?specialization=leading-teams
+651,Software Development Lifecycle Specialization,Computer Science,Software Development,Specialization,Advanced,80.0,4.6,2031.0,https://www.coursera.org/specializations/software-development-lifecycle
+652,Django for Everybody Specialization,Computer Science,Mobile and Web Development,Specialization,Advanced,100.0,4.7,2022.0,https://www.coursera.org/specializations/django
+653,Global Financial Markets and Instruments,Business,Finance,Course,Intermediate,20.0,4.5,2017.0,https://www.coursera.org/learn/global-financial-markets-instruments?specialization=investment-portolio-management
+654,Fundamentals of Scalable Data Science,Data Science,Data Analysis,Course,Intermediate,21.0,4.3,2013.0,https://www.coursera.org/learn/ds?specialization=advanced-data-science-ibm
+655,Fundamental Neuroscience for Neuroimaging,Health,Basic Science,Course,Beginner,9.0,4.7,2007.0,https://www.coursera.org/learn/neuroscience-neuroimaging?specialization=computational-neuroscience
+656,Investment and Portfolio Management Specialization,Business,Finance,Specialization,Advanced,120.0,4.5,1998.0,https://www.coursera.org/specializations/investment-portolio-management
+657,AI for Medicine Specialization,Data Science,Machine Learning,Specialization,Intermediate,60.0,4.7,1986.0,https://www.coursera.org/specializations/ai-for-medicine
+658,Agile Planning for Software Products,Computer Science,Software Development,Course,Beginner,12.0,4.8,1971.0,https://www.coursera.org/learn/agile-planning-for-software-products?specialization=product-management
+659,Schizophrenia,Health,Psychology,Course,Beginner,5.0,4.8,1967.0,https://www.coursera.org/learn/schizophrenia
+660,Positive Psychology: Resilience Skills,Health,Psychology,Course,Intermediate,15.0,4.9,1962.0,https://www.coursera.org/learn/positive-psychology-resilience?specialization=positivepsychology
+661,Positive Psychology: Applications and Interventions,Health,Psychology,Course,Intermediate,16.0,4.8,1957.0,https://www.coursera.org/learn/positive-psychology-applications?specialization=positivepsychology
+662,Introduction to Public Speaking,Business,Business Essentials,Course,Intermediate,14.0,4.8,1948.0,https://www.coursera.org/learn/public-speaking
+663,Introduction to battery-management systems,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,24.0,4.7,1935.0,https://www.coursera.org/learn/battery-management-systems?specialization=algorithms-for-battery-management-systems
+664,Advanced Business Analytics Specialization,Business,Business Essentials,Specialization,Advanced,100.0,4.4,1932.0,https://www.coursera.org/specializations/data-analytics-business
+665,"Penetration Testing, Incident Response and Forensics",Information Technology,Security,Course,Intermediate,15.0,4.6,1932.0,https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics
+666,"Graph Search, Shortest Paths, and Data Structures",Computer Science,Algorithms,Course,Intermediate,15.0,4.8,1929.0,https://www.coursera.org/learn/algorithms-graphs-data-structures?specialization=algorithms
+667,Data Mining  Specialization,Data Science,Machine Learning,Specialization,Advanced,160.0,4.5,1929.0,https://www.coursera.org/specializations/data-mining
+668,Autodesk Fusion 360 Integrated CAD/CAM/CAE,Physical Science and Engineering,Mechanical Engineering,Course,Beginner,12.0,4.7,1927.0,https://www.coursera.org/learn/fusion-360-integrated-cad-cam-cae?specialization=cad-design-digital-manufacturing
+669,Kotlin for Java Developers,Computer Science,Software Development,Course,Intermediate,25.0,4.7,1924.0,https://www.coursera.org/learn/kotlin-for-java-developers
+670,Leading: Human Resource Management and Leadership Specialization,Business,Leadership and Management,Specialization,Advanced,120.0,4.9,1921.0,https://www.coursera.org/specializations/hr-management-leadership
+671,Supply Chain Principles,Business,Business Essentials,Course,Beginner,12.0,4.6,1912.0,https://www.coursera.org/learn/supply-chain-principles
+672,Trading Strategies in Emerging Markets Specialization,Business,Finance,Specialization,Advanced,120.0,4.3,1912.0,https://www.coursera.org/specializations/trading-strategy
+673,Biostatistics in Public Health  Specialization,Health,Public Health,Specialization,Advanced,80.0,4.8,1910.0,https://www.coursera.org/specializations/biostatistics-public-health
+674,Drug Development Product Management Specialization,Health,Healthcare Management,Specialization,Intermediate,60.0,4.7,1908.0,https://www.coursera.org/specializations/drug-development-product-management
+675,Generative Adversarial Networks (GANs) Specialization,Data Science,Machine Learning,Specialization,Intermediate,60.0,4.7,1902.0,https://www.coursera.org/specializations/generative-adversarial-networks-gans
+676,Essential Design Principles for Tableau,Data Science,Data Analysis,Course,Beginner,12.0,4.4,1898.0,https://www.coursera.org/learn/dataviz-design?specialization=data-visualization
+677,Entrepreneurship 2: Launching your Start-Up,Business,Entrepreneurship,Course,Beginner,8.0,4.8,1898.0,https://www.coursera.org/learn/wharton-launching-startup?specialization=wharton-entrepreneurship
+678,Construction Scheduling,Business,Business Strategy,Course,Intermediate,21.0,4.8,1878.0,https://www.coursera.org/learn/construction-scheduling?specialization=construction-management
+679,Diseño de Experiencia del Usuario (UX) de Google Professional Certificate,Computer Science,Diseño y Producto,Professional Certificate,Advanced,120.0,4.9,1865.0,https://www.coursera.org/professional-certificates/diseno-de-experiencia-del-usuario-ux-de-google
+680,Programming with JavaScript,Computer Science,Mobile and Web Development,Course,Intermediate,42.0,4.7,1860.0,https://www.coursera.org/learn/programming-with-javascript
+681,Essentials of Global Health,Health,Public Health,Course,Intermediate,70.0,4.8,1855.0,https://www.coursera.org/learn/essentials-global-health
+682,Innovation Management,Business,Business Strategy,Course,Beginner,10.0,4.7,1854.0,https://www.coursera.org/learn/innovation-management
+683,Supply Chain Sourcing,Business,Business Strategy,Course,Beginner,12.0,4.7,1854.0,https://www.coursera.org/learn/sourcing?specialization=supply-chain-management
+684,Software Development Processes and Methodologies,Computer Science,Software Development,Course,Intermediate,22.0,4.7,1846.0,https://www.coursera.org/learn/software-processes?specialization=software-development-lifecycle
+685,Réussir le Changement,Business,Leadership and Management,Course,Intermediate,13.0,4.5,1842.0,https://www.coursera.org/learn/reussir-le-changement
+686,Scrum Master Certification Specialization,Computer Science,Design and Product,Specialization,Intermediate,40.0,4.7,1835.0,https://www.coursera.org/specializations/learnquest-certified-scrum-master
+687,AI for Medical Diagnosis,Data Science,Machine Learning,Course,Intermediate,20.0,4.7,1825.0,https://www.coursera.org/learn/ai-for-medical-diagnosis
+688,Parallel programming,Computer Science,Software Development,Course,Intermediate,32.0,4.4,1825.0,https://www.coursera.org/learn/scala-parallel-programming?specialization=scala
+689,Google Cloud Digital Leader Training Professional Certificate,Information Technology,Cloud Computing,Professional Certificate,Intermediate,20.0,4.8,1813.0,https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training
+690,Financing and Investing in Infrastructure,Business,Finance,Course,Beginner,11.0,4.8,1808.0,https://www.coursera.org/learn/infrastructure-investing
+691,"Python Project: pillow, tesseract, and opencv",Computer Science,Software Development,Course,Intermediate,19.0,4.0,1807.0,https://www.coursera.org/learn/python-project?specialization=python-3-programming
+692,Business Strategy,Business,Business Strategy,Course,Intermediate,18.0,4.8,1803.0,https://www.coursera.org/learn/strategy-business?specialization=strategic-leadership
+693,Construction Cost Estimating and Cost Control,Business,Business Strategy,Course,Intermediate,19.0,4.7,1803.0,https://www.coursera.org/learn/construction-cost-estimating?specialization=construction-management
+694,Foundations of Management Specialization,Business,Leadership and Management,Specialization,Advanced,120.0,4.7,1801.0,https://www.coursera.org/specializations/foundations-management
+695,Regulatory Compliance Specialization,Business,Business Essentials,Specialization,Advanced,80.0,4.8,1789.0,https://www.coursera.org/specializations/regulatory-compliance
+696,IBM DevOps and Software Engineering Professional Certificate,Computer Science,Software Development,Professional Certificate,Intermediate,60.0,4.7,1769.0,https://www.coursera.org/professional-certificates/devops-and-software-engineering
+697,Introduction to Back-End Development,Computer Science,Mobile and Web Development,Course,Intermediate,18.0,4.8,1764.0,https://www.coursera.org/learn/introduction-to-back-end-development
+698,Business Analytics for Decision Making,Data Science,Data Analysis,Course,Beginner,8.0,4.6,1762.0,https://www.coursera.org/learn/business-analytics-decision-making?specialization=data-analytics-business
+699,Introduction to Finance and Accounting Specialization,Business,Finance,Specialization,Advanced,100.0,4.4,1753.0,https://www.coursera.org/specializations/finance-accounting
+700,Visual Analytics with Tableau,Data Science,Data Analysis,Course,Beginner,9.0,4.6,1752.0,https://www.coursera.org/learn/dataviz-visual-analytics?specialization=data-visualization
+701,What Is Contemporary Art?,Arts and Humanities,Music and Art,Course,Beginner,11.0,4.7,1741.0,https://www.coursera.org/learn/contemporary-art?specialization=modern-contemporary-art-design
+702,Meeting Investors' Goals,Business,Finance,Course,Beginner,8.0,4.8,1736.0,https://www.coursera.org/learn/meeting-investors-goals?specialization=investment-management
+703,Summary Statistics in Public Health ,Health,Public Health,Course,Intermediate,15.0,4.8,1733.0,https://www.coursera.org/learn/summary-statistics?specialization=biostatistics-public-health
+704,Feature Engineering,Data Science,Machine Learning,Course,Intermediate,13.0,4.5,1725.0,https://www.coursera.org/learn/feature-engineering?specialization=machine-learning-tensorflow-gcp
+705,Web Application Technologies and Django,Computer Science,Mobile and Web Development,Course,Intermediate,15.0,4.7,1722.0,https://www.coursera.org/learn/django-database-web-apps?specialization=django
+706,Understanding Plants - Part I: What a Plant Knows,Health,Basic Science,Course,Beginner,11.0,4.8,1721.0,https://www.coursera.org/learn/plantknows
+707,Managing Employee Compensation,Business,Business Essentials,Course,Intermediate,15.0,4.7,1713.0,https://www.coursera.org/learn/compensation-management?specialization=human-resource-management
+708,Build Basic Generative Adversarial Networks (GANs),Data Science,Machine Learning,Course,Intermediate,33.0,4.7,1698.0,https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans
+709,Big History: Connecting Knowledge,Arts and Humanities,History,Course,Intermediate,28.0,4.8,1698.0,https://www.coursera.org/learn/big-history
+710,User Experience Research and Design Specialization,Computer Science,Design and Product,Specialization,Advanced,180.0,4.8,1694.0,https://www.coursera.org/specializations/michiganux
+711,Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization,Computer Science,Software Development,Specialization,Advanced,100.0,4.6,1692.0,https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900
+712,Decision-Making and Scenarios,Business,Business Essentials,Course,Beginner,6.0,4.6,1684.0,https://www.coursera.org/learn/wharton-decision-making-scenarios?specialization=wharton-business-financial-modeling
+713,Six Sigma Tools for Analyze,Business,Business Essentials,Course,Beginner,8.0,4.7,1681.0,https://www.coursera.org/learn/six-sigma-analyze?specialization=six-sigma-fundamentals
+714,Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate,Information Technology,Cloud Computing,Professional Certificate,Advanced,140.0,4.6,1679.0,https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate
+715,Introduction to Data Engineering,Information Technology,Data Management,Course,Intermediate,14.0,4.7,1675.0,https://www.coursera.org/learn/introduction-to-data-engineering
+716,International Organizations Management ,Business,Leadership and Management,Course,Intermediate,17.0,4.8,1675.0,https://www.coursera.org/learn/international-organizations-management
+717,Circular Economy - Sustainable Materials Management,Physical Science and Engineering,Environmental Science and Sustainability,Course,Intermediate,19.0,4.8,1674.0,https://www.coursera.org/learn/circular-economy
+718,Fundamentals of Immunology Specialization,Health,Basic Science,Specialization,Advanced,120.0,4.8,1672.0,https://www.coursera.org/specializations/immunology
+719,Fundamentals of Immunology: Innate Immunity and B-Cell Function,Health,Basic Science,Course,Intermediate,16.0,4.7,1670.0,https://www.coursera.org/learn/immunologyfundamentalsimmunitybcells?specialization=immunology
+720,Trading Basics,Business,Finance,Course,Beginner,8.0,3.9,1669.0,https://www.coursera.org/learn/trading-basics?specialization=trading-strategy
+721,Storytelling and influencing: Communicate with impact,Business,Leadership and Management,Course,Intermediate,18.0,4.8,1649.0,https://www.coursera.org/learn/communicate-with-impact
+722,Fundamentals of Music Theory,Arts and Humanities,Music and Art,Course,Beginner,11.0,4.5,1647.0,https://www.coursera.org/learn/edinburgh-music-theory
+723,Linear Regression and Modeling ,Data Science,Data Analysis,Course,Beginner,10.0,4.8,1643.0,https://www.coursera.org/learn/linear-regression-model?specialization=statistics
+724,"Innovation Through Design: Think, Make, Break, Repeat",Business,Entrepreneurship,Course,Intermediate,15.0,4.7,1636.0,https://www.coursera.org/learn/innovation-through-design
+725,Bioinformatic Methods I,Health,Health Informatics,Course,Intermediate,19.0,4.7,1634.0,https://www.coursera.org/learn/bioinformatics-methods-1?specialization=plant-bioinformatic-methods
+726,Aspectos básicos del diseño de la experiencia del usuario,Computer Science,Design and Product,Course,Intermediate,20.0,4.9,1624.0,https://www.coursera.org/learn/aspectos-basicos-del-diseno-de-la-experiencia-del-usuario-ux
+727,Building Batch Data Pipelines on Google Cloud,Information Technology,Cloud Computing,Course,Intermediate,17.0,4.5,1608.0,https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-machine-learning
+728,The Importance of Listening,Business,Marketing,Course,Beginner,8.0,4.7,1602.0,https://www.coursera.org/learn/importance-of-listening?specialization=social-media-marketing
+729,Software Security ,Computer Science,Computer Security and Networks,Course,Intermediate,17.0,4.6,1599.0,https://www.coursera.org/learn/software-security?specialization=cyber-security
+730,Financial Accounting: Advanced Topics,Business,Finance,Course,Intermediate,13.0,4.7,1596.0,https://www.coursera.org/learn/financial-accounting-advanced?specialization=business-data-management-communication
+731,Reviews & Metrics for Software Improvements,Computer Science,Design and Product,Course,Beginner,8.0,4.7,1590.0,https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements?specialization=product-management
+732,Python for Genomic Data Science,Data Science,Data Analysis,Course,Beginner,8.0,4.3,1580.0,https://www.coursera.org/learn/python-genomics?specialization=genomic-data-science
+733,Corporate Strategy ,Business,Business Strategy,Course,Beginner,10.0,4.8,1579.0,https://www.coursera.org/learn/corporatestrategy
+734,The 3D Printing Revolution,Business,Entrepreneurship,Course,Beginner,9.0,4.7,1573.0,https://www.coursera.org/learn/3d-printing-revolution?specialization=3d-printing-additive-manufacturing
+735,Interfacing with the Raspberry Pi,Physical Science and Engineering,Electrical Engineering,Course,Beginner,11.0,4.7,1573.0,https://www.coursera.org/learn/raspberry-pi-interface?specialization=iot
+736,Addiction Treatment: Clinical Skills for Healthcare Providers,Health,Patient Care,Course,Intermediate,15.0,4.8,1572.0,https://www.coursera.org/learn/addiction-treatment
+737,"Hotel Management: Distribution, Revenue and Demand Management Specialization",Business,Leadership and Management,Specialization,Advanced,80.0,4.7,1565.0,https://www.coursera.org/specializations/hotel-management
+738,Designing the Organization,Business,Leadership and Management,Course,Intermediate,13.0,4.6,1561.0,https://www.coursera.org/learn/designing-organization?specialization=business-value-project-management
+739,Algorithms for Battery Management Systems Specialization,Physical Science and Engineering,Electrical Engineering,Specialization,Advanced,160.0,4.8,1546.0,https://www.coursera.org/specializations/algorithms-for-battery-management-systems
+740,Análise de marketing da Meta Professional Certificate,Business,Marketing,Professional Certificate,Advanced,120.0,4.7,1545.0,https://www.coursera.org/professional-certificates/facebook-marketing-analytics
+741,Programación y presupuesto del proyecto,Business,Leadership and Management,Course,Beginner,9.0,4.8,1541.0,https://www.coursera.org/learn/riesgos-cambios-proyectos?specialization=administracion-proyectos
+742,Executive Data Science Capstone,Business,Leadership and Management,Course,Beginner,2.0,4.7,1538.0,https://www.coursera.org/learn/executive-data-science-capstone?specialization=executive-data-science
+743,Introduction to Microsoft Azure Cloud Services,Information Technology,Cloud Computing,Course,Beginner,9.0,4.6,1533.0,https://www.coursera.org/learn/microsoft-azure-cloud-services?specialization=microsoft-azure-fundamentals-az-900
+744,Statistical Analysis with R for Public Health Specialization,Health,Public Health,Specialization,Advanced,80.0,4.7,1528.0,https://www.coursera.org/specializations/statistical-analysis-r-public-health
+745,Networking in Google Cloud: Defining and Implementing Networks,Information Technology,Networking,Course,Beginner,7.0,4.8,1520.0,https://www.coursera.org/learn/networking-gcp-defining-implementing-networks?specialization=networking-google-cloud-platform
+746,Web Design for Everybody Capstone,Computer Science,Mobile and Web Development,Course,Intermediate,17.0,4.8,1520.0,https://www.coursera.org/learn/web-design-project?specialization=web-design
+747,Optimizing a Website for Google Search,Business,Marketing,Course,Intermediate,13.0,4.7,1506.0,https://www.coursera.org/learn/optimizing-web-search?specialization=seo
+748,Natural Language Processing with Probabilistic Models,Data Science,Machine Learning,Course,Intermediate,31.0,4.7,1505.0,https://www.coursera.org/learn/probabilistic-models-in-nlp
+749,Version Control,Computer Science,Mobile and Web Development,Course,Intermediate,13.0,4.7,1498.0,https://www.coursera.org/learn/introduction-to-version-control
+750,Inspiring Leadership through Emotional Intelligence,Business,Leadership and Management,Course,Intermediate,19.0,4.7,1488.0,https://www.coursera.org/learn/emotional-intelligence-leadership?specialization=inspired-leadership
+751,Investment Management with Python and Machine Learning Specialization,Business,Finance,Specialization,Advanced,100.0,4.5,1484.0,https://www.coursera.org/specializations/investment-management-python-machine-learning
+752,Inspirational Leadership: Leading with Sense Specialization,Business,Leadership and Management,Specialization,Advanced,100.0,4.7,1474.0,https://www.coursera.org/specializations/inspirational-leadership
+753,"The Modern World, Part Two: Global History since 1910",Arts and Humanities,History,Course,Intermediate,20.0,4.8,1469.0,https://www.coursera.org/learn/modern-world-2
+754,IBM Data Analytics with Excel and R Professional Certificate,Data Science,Data Analysis,Professional Certificate,Intermediate,60.0,4.7,1468.0,https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel
+755,Financial Technology (Fintech) Innovations Specialization,Business,Finance,Specialization,Advanced,80.0,4.7,1465.0,https://www.coursera.org/specializations/financialtechnology
+756,Introduction to Java,Computer Science,Software Development,Course,Beginner,11.0,4.6,1463.0,https://www.coursera.org/learn/java-introduction?specialization=core-java
+757,Business Strategies for A Better World Specialization,Business,Leadership and Management,Specialization,Advanced,80.0,4.7,1463.0,https://www.coursera.org/specializations/wharton-global-business-strategy
+758,Decentralized Finance (DeFi): The Future of Finance Specialization,Business,Finance,Specialization,Advanced,80.0,4.8,1462.0,https://www.coursera.org/specializations/decentralized-finance-duke
+759,Java Programming: Principles of Software Design,Computer Science,Software Development,Course,Beginner,12.0,4.6,1456.0,https://www.coursera.org/learn/java-programming-design-principles?specialization=java-programming
+760,Introduction to Genetics and Evolution,Health,Basic Science,Course,Intermediate,25.0,4.8,1453.0,https://www.coursera.org/learn/genetics-evolution
+761,Become an EMT Specialization,Health,Patient Care,Specialization,Advanced,140.0,4.8,1449.0,https://www.coursera.org/specializations/become-an-emt
+762,Everyday Excel Specialization,Computer Science,Design and Product,Specialization,Advanced,80.0,4.7,1443.0,https://www.coursera.org/specializations/everyday-excel
+763,Machine Learning in the Enterprise,Data Science,Machine Learning,Course,Intermediate,23.0,4.6,1432.0,https://www.coursera.org/learn/art-science-ml?specialization=machine-learning-tensorflow-gcp
+764,Data Management for Clinical Research,Health,Research,Course,Intermediate,17.0,4.7,1431.0,https://www.coursera.org/learn/clinical-data-management
+765,Business Transformation with Google Cloud,Business,Business Strategy,Course,Beginner,11.0,4.7,1431.0,https://www.coursera.org/learn/business-transformation-google-cloud?specialization=organizational-change-and-culture-for-adopting-google-cloud
+766,Biology Meets Programming: Bioinformatics for Beginners,Health,Health Informatics,Course,Intermediate,18.0,4.2,1428.0,https://www.coursera.org/learn/bioinformatics
+767,Managing as a Coach,Business,Leadership and Management,Course,Beginner,12.0,4.7,1426.0,https://www.coursera.org/learn/managing-as-a-coach?specialization=coaching-skills-manager
+768,The Future of Payment Technologies,Business,Finance,Course,Beginner,7.0,4.7,1425.0,https://www.coursera.org/learn/paytech?specialization=financialtechnology
+769,Linear Circuits 1: DC Analysis,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,85.0,4.5,1422.0,https://www.coursera.org/learn/linear-circuits-dcanalysis
+770,The Digital Marketing Revolution,Business,Marketing,Course,Intermediate,26.0,4.7,1417.0,https://www.coursera.org/learn/digital-marketing-revolution?specialization=digital-marketing
+771,"Negotiation, Mediation and Conflict Resolution Specialization",Business,Leadership and Management,Specialization,Advanced,100.0,4.7,1415.0,https://www.coursera.org/specializations/negotiation-mediation-conflict-resolution
+772,International Women's Health and Human Rights,Health,Public Health,Course,Intermediate,57.0,4.9,1414.0,https://www.coursera.org/learn/womens-health-human-rights
+773,Introduction to DevOps,Computer Science,Software Development,Course,Beginner,9.0,4.8,1411.0,https://www.coursera.org/learn/intro-to-devops
+774,Probabilistic Graphical Models 1: Representation,Data Science,Machine Learning,Course,Intermediate,66.0,4.6,1408.0,https://www.coursera.org/learn/probabilistic-graphical-models
+775,Implant Dentistry,Health,Basic Science,Course,Intermediate,27.0,4.8,1406.0,https://www.coursera.org/learn/implant-dentistry
+776,Infrastructure and Application Modernization with Google Cloud,Business,Business Strategy,Course,Beginner,2.0,4.7,1403.0,https://www.coursera.org/learn/google-cloud-product-fundamentals?specialization=digital-transformation-using-ai-ml-with-google-cloud
+777,Introduction to Scrum Master Training,Computer Science,Design and Product,Course,Beginner,9.0,4.7,1399.0,https://www.coursera.org/learn/introduction-to-certified-scrum-master
+778,Google Data Analytics (PT) Professional Certificate,Data Science,Data Analysis,Professional Certificate,Advanced,120.0,4.9,1396.0,https://www.coursera.org/professional-certificates/analise-de-dados-do-google
+779,La gestión de personas y equipos,Business,Leadership and Management,Course,Beginner,10.0,4.8,1394.0,https://www.coursera.org/learn/gestion-personas-equipos?specialization=direccion-empresas
+780,Introduction to User Experience Principles and Processes,Computer Science,Design and Product,Course,Beginner,11.0,4.8,1387.0,https://www.coursera.org/learn/introtoux-principles-and-processes?specialization=michiganux
+781,Principles of Sustainable Finance ,Business,Finance,Course,Intermediate,16.0,4.7,1382.0,https://www.coursera.org/learn/sustainable-finance
+782,Learn Mandarin Chinese Specialization,Language Learning,Other Languages,Specialization,Advanced,120.0,4.8,1377.0,https://www.coursera.org/specializations/learn-mandarin
+783,Strategy Formulation,Business,Business Strategy,Course,Intermediate,16.0,4.5,1375.0,https://www.coursera.org/learn/strategy-formulation?specialization=strategic-management
+784,Coaching Skills for Managers Specialization,Business,Leadership and Management,Specialization,Advanced,80.0,4.8,1374.0,https://www.coursera.org/specializations/coaching-skills-manager
+785,In the Studio: Postwar Abstract Painting,Arts and Humanities,Music and Art,Course,Intermediate,26.0,4.9,1373.0,https://www.coursera.org/learn/painting
+786,Cryptocurrency and Blockchain: An Introduction to Digital Currencies,Business,Finance,Course,Beginner,4.0,4.6,1372.0,https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency?specialization=wharton-fintech
+787,Digital Transformation in Financial Services Specialization,Business,Business Strategy,Specialization,Advanced,100.0,4.5,1368.0,https://www.coursera.org/specializations/digital-transformation-financial-services
+788,Entrepreneurship 3: Growth Strategies,Business,Entrepreneurship,Course,Beginner,8.0,4.8,1368.0,https://www.coursera.org/learn/growth-strategy?specialization=wharton-entrepreneurship
+789,Organisational design: Know your organisation,Business,Leadership and Management,Course,Intermediate,19.0,4.9,1358.0,https://www.coursera.org/learn/organisational-design-know-your-organisation?specialization=hr-management-leadership
+790,From Likes to Leads: Interact with Customers Online,Business,Marketing,Course,Intermediate,27.0,4.8,1356.0,https://www.coursera.org/learn/from-likes-to-leads
+791,Negotiation  Fundamentals,Business,Leadership and Management,Course,Beginner,7.0,4.7,1355.0,https://www.coursera.org/learn/negotiation-fundamentals?specialization=negotiation-mediation-conflict-resolution
+792,Introduction to Dental Medicine,Health,Basic Science,Course,Beginner,10.0,4.8,1352.0,https://www.coursera.org/learn/dental-medicine-penn
+793,Music Business  Specialization,Business,Leadership and Management,Specialization,Advanced,100.0,4.8,1351.0,https://www.coursera.org/specializations/music-business
+794,Introduction to UI Design,Computer Science,Design and Product,Course,Intermediate,14.0,4.6,1348.0,https://www.coursera.org/learn/ui-design?specialization=user-interface-design
+795,Cyber Threat Intelligence,Information Technology,Security,Course,Intermediate,26.0,4.7,1344.0,https://www.coursera.org/learn/ibm-cyber-threat-intelligence
+796,Deep Neural Networks with PyTorch,Data Science,Machine Learning,Course,Intermediate,30.0,4.4,1343.0,https://www.coursera.org/learn/deep-neural-networks-with-pytorch
+797,Business English: Management and Leadership,Language Learning,Learning English,Course,Intermediate,30.0,4.8,1338.0,https://www.coursera.org/learn/management-leadership-english?specialization=english-for-business
+798,Data Visualization,Data Science,Data Analysis,Course,Intermediate,15.0,4.5,1337.0,https://www.coursera.org/learn/datavisualization?specialization=data-mining
+799,Patient Safety and Quality Improvement: Developing a Systems View (Patient Safety I),Health,Healthcare Management,Course,Beginner,5.0,4.8,1335.0,https://www.coursera.org/learn/patient-safety-systems-view?specialization=patient-safety
+800,Customer Service Fundamentals,Information Technology,Support and Operations,Course,Intermediate,23.0,4.8,1331.0,https://www.coursera.org/learn/customer-service-fundamentals
+801,International Marketing & Cross Industry Growth  Specialization,Business,Marketing,Specialization,Advanced,120.0,4.7,1328.0,https://www.coursera.org/specializations/international-marketing
+802,Introduction to Statistics & Data Analysis in Public Health,Health,Public Health,Course,Intermediate,15.0,4.7,1327.0,https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health?specialization=statistical-analysis-r-public-health
+803,Mandarin Chinese 1: Chinese for Beginners,Language Learning,Other Languages,Course,Intermediate,19.0,4.8,1325.0,https://www.coursera.org/learn/mandarin-chinese-1?specialization=learn-mandarin
+804,Global Procurement and Sourcing Specialization,Business,Leadership and Management,Specialization,Advanced,140.0,4.7,1323.0,https://www.coursera.org/specializations/procurement-sourcing
+805,Motors and Motor Control Circuits,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,36.0,4.7,1321.0,https://www.coursera.org/learn/motors-circuits-design?specialization=embedding-sensors-motors
+806,Organizational Analysis ,Business,Leadership and Management,Course,Intermediate,25.0,4.6,1321.0,https://www.coursera.org/learn/organizational-analysis
+807,Intelligent Machining,Physical Science and Engineering,Mechanical Engineering,Course,Beginner,10.0,4.6,1318.0,https://www.coursera.org/learn/intelligent-machining?specialization=digital-manufacturing-design-technology
+808,User Interface Design Specialization,Computer Science,Design and Product,Specialization,Advanced,80.0,4.6,1318.0,https://www.coursera.org/specializations/user-interface-design
+809,Managing the Organization,Business,Leadership and Management,Course,Beginner,12.0,4.7,1316.0,https://www.coursera.org/learn/managing-organization?specialization=business-value-project-management
+810,Securing and Integrating Components of your Application,Computer Science,Software Development,Course,Intermediate,14.0,4.6,1311.0,https://www.coursera.org/learn/securing-integrating-components-app?specialization=developing-apps-gcp
+811,Linear Regression for Business Statistics,Data Science,Data Analysis,Course,Intermediate,27.0,4.8,1309.0,https://www.coursera.org/learn/linear-regression-business-statistics?specialization=business-statistics-analysis
+812,Patient Safety Specialization,Health,Patient Care,Specialization,Advanced,160.0,4.8,1309.0,https://www.coursera.org/specializations/patient-safety
+813,School Health for Children and Adolescents Specialization,Health,Patient Care,Specialization,Advanced,80.0,4.8,1307.0,https://www.coursera.org/specializations/school-health-for-children-and-adolescents
+814,Creative Writing: The Craft of Setting and Description,Arts and Humanities,Music and Art,Course,Beginner,7.0,4.7,1305.0,https://www.coursera.org/learn/craft-of-setting-and-description?specialization=creative-writing
+815,Design Principles: an Introduction,Computer Science,Design and Product,Course,Beginner,12.0,4.6,1303.0,https://www.coursera.org/learn/design-principles?specialization=interaction-design
+816,The Language and Tools of Financial Analysis,Business,Finance,Course,Beginner,11.0,4.7,1298.0,https://www.coursera.org/learn/financial-analysis?specialization=learn-finance
+817,Converter Circuits,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,18.0,4.8,1295.0,https://www.coursera.org/learn/converter-circuits?specialization=power-electronics
+818,Introduction to Portfolio Construction and Analysis with Python,Business,Finance,Course,Intermediate,25.0,4.8,1295.0,https://www.coursera.org/learn/introduction-portfolio-construction-python
+819,Doing more with Google Sheets,Business,Business Essentials,Course,Beginner,5.0,4.6,1293.0,https://www.coursera.org/learn/getting-started-with-google-sheets
+820,Claves de la Dirección de Empresas Specialization,Business,Leadership and Management,Specialization,Advanced,120.0,4.8,1282.0,https://www.coursera.org/specializations/direccion-empresas
+821,AWS Cloud Practitioner Essentials,Information Technology,Cloud Computing,Course,Intermediate,18.0,4.8,1279.0,https://www.coursera.org/learn/aws-cloud-practitioner-essentials
+822,Leading transformations: Manage change,Business,Leadership and Management,Course,Intermediate,18.0,4.7,1279.0,https://www.coursera.org/learn/change-management
+823,Innovation: From Creativity to Entrepreneurship Specialization,Business,Leadership and Management,Specialization,Advanced,160.0,4.8,1277.0,https://www.coursera.org/specializations/innovation-creativity-entrepreneurship
+824,Cryptography,Computer Science,Computer Security and Networks,Course,Intermediate,17.0,4.6,1273.0,https://www.coursera.org/learn/cryptography?specialization=cyber-security
+825,Become a Journalist: Report the News! Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,120.0,4.7,1271.0,https://www.coursera.org/specializations/become-a-journalist
+826,Tricky English Grammar,Language Learning,Learning English,Course,Intermediate,25.0,4.8,1269.0,https://www.coursera.org/learn/tricky-english-grammar?specialization=intermediate-grammar
+827,Business Applications of Hypothesis Testing and Confidence Interval Estimation ,Data Science,Data Analysis,Course,Intermediate,24.0,4.8,1264.0,https://www.coursera.org/learn/hypothesis-testing-confidence-intervals?specialization=business-statistics-analysis
+828,Managing an Agile Team,Computer Science,Design and Product,Course,Beginner,10.0,4.7,1263.0,https://www.coursera.org/learn/uva-darden-agile-team-management?specialization=uva-darden-digital-product-management
+829,Introduction to Deep Learning & Neural Networks with Keras,Data Science,Machine Learning,Course,Beginner,8.0,4.7,1258.0,https://www.coursera.org/learn/introduction-to-deep-learning-with-keras
+830,The fundamentals of hotel distribution,Business,Business Strategy,Course,Intermediate,15.0,4.7,1258.0,https://www.coursera.org/learn/hotel-distribution?specialization=hotel-management
+831,Computational Thinking for Problem Solving,Computer Science,Algorithms,Course,Intermediate,17.0,4.7,1257.0,https://www.coursera.org/learn/computational-thinking-problem-solving
+832,Bugs 101: Insect-Human Interactions,Health,Basic Science,Course,Intermediate,49.0,4.9,1256.0,https://www.coursera.org/learn/bugs-101
+833,Arts and Heritage Management,Business,Marketing,Course,Intermediate,16.0,4.8,1255.0,https://www.coursera.org/learn/arts-heritage
+834,Analitik Data Google Professional Certificate,Data Science,Data Analysis,Professional Certificate,Advanced,180.0,4.9,1255.0,https://www.coursera.org/professional-certificates/analitik-data-google
+835,Cancer Biology Specialization,Health,Basic Science,Specialization,Intermediate,60.0,4.9,1252.0,https://www.coursera.org/specializations/cancer-biology
+836,Probabilistic Graphical Models  Specialization,Data Science,Machine Learning,Specialization,Advanced,80.0,4.6,1250.0,https://www.coursera.org/specializations/probabilistic-graphical-models
+837,"Excel/VBA for Creative Problem Solving, Part 2",Computer Science,Algorithms,Course,Intermediate,20.0,4.9,1246.0,https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2?specialization=excel-vba-creative-problem-solving
+838,Financial Planning for Young Adults,Business,Finance,Course,Intermediate,19.0,4.6,1245.0,https://www.coursera.org/learn/financial-planning
+839,"Engineering Project Management: Scope, Time and Cost Management",Business,Leadership and Management,Course,Intermediate,23.0,4.8,1242.0,https://www.coursera.org/learn/scope-time-management-cost?specialization=engineering-project-management
+840,Making Architecture,Arts and Humanities,Music and Art,Course,Intermediate,13.0,4.8,1242.0,https://www.coursera.org/learn/making-architecture
+841,Graph Analytics for Big Data,Data Science,Data Analysis,Course,Intermediate,13.0,4.3,1239.0,https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data
+842,Developing Your Musicianship,Arts and Humanities,Music and Art,Course,Intermediate,17.0,4.8,1239.0,https://www.coursera.org/learn/develop-your-musicianship?specialization=musicianship-specialization
+843,Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate,Information Technology,Cloud Computing,Professional Certificate,Advanced,220.0,4.8,1238.0,https://www.coursera.org/professional-certificates/google-cloud-security
+844,Leadership Through Social Influence,Business,Leadership and Management,Course,Beginner,4.0,4.7,1233.0,https://www.coursera.org/learn/leadership-socialinfluence?specialization=organizational-leadership
+845,Key Technologies for Business Specialization,Business,Business Essentials,Specialization,Intermediate,60.0,4.7,1232.0,https://www.coursera.org/specializations/key-technologies-for-business
+846,Essentials of Corporate Finance Specialization,Business,Finance,Specialization,Advanced,100.0,4.7,1229.0,https://www.coursera.org/specializations/learn-finance
+847,Advanced Data Structures in Java,Computer Science,Algorithms,Course,Intermediate,28.0,4.8,1229.0,https://www.coursera.org/learn/advanced-data-structures?specialization=java-object-oriented
+848,European Business Law: Understanding the Fundamentals,Business,Business Essentials,Course,Intermediate,13.0,4.8,1228.0,https://www.coursera.org/learn/european-law-fundamentals?specialization=european-business-law
+849,Social Impact Strategy: Tools for Entrepreneurs and Innovators,Business,Entrepreneurship,Course,Beginner,7.0,4.8,1228.0,https://www.coursera.org/learn/social-impact
+850,Futures Thinking Specialization,Business,Business Essentials,Specialization,Advanced,120.0,4.8,1225.0,https://www.coursera.org/specializations/futures-thinking
+851,The Business of Health Care Specialization,Health,Healthcare Management,Specialization,Advanced,80.0,4.6,1223.0,https://www.coursera.org/specializations/healthcare-administration-management
+852,"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",Computer Science,Algorithms,Course,Intermediate,15.0,4.8,1219.0,https://www.coursera.org/learn/algorithms-greedy?specialization=algorithms
+853,Understanding Financial Statements: Company Position,Business,Business Essentials,Course,Beginner,12.0,4.8,1214.0,https://www.coursera.org/learn/financial-statements?specialization=accounting-fundamentals
+854,Developing Your Musicianship Specialization,Arts and Humanities,Music and Art,Specialization,Advanced,100.0,4.9,1211.0,https://www.coursera.org/specializations/musicianship-specialization
+855,Data Science Capstone,Data Science,Data Analysis,Course,Beginner,5.0,4.5,1210.0,https://www.coursera.org/learn/data-science-project?specialization=data-science-statistics-machine-learning
+856,TensorFlow: Data and Deployment Specialization,Data Science,Machine Learning,Specialization,Advanced,80.0,4.7,1205.0,https://www.coursera.org/specializations/tensorflow-data-and-deployment
+857,Advanced Machine Learning and Signal Processing,Data Science,Machine Learning,Course,Intermediate,28.0,4.5,1205.0,https://www.coursera.org/learn/advanced-machine-learning-signal-processing?specialization=advanced-data-science-ibm
+858,Architecting with Google Kubernetes Engine: Workloads,Computer Science,Software Development,Course,Intermediate,15.0,4.7,1203.0,https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke?specialization=architecting-google-kubernetes-engine
+859,Inspired Leadership Specialization,Business,Leadership and Management,Specialization,Advanced,160.0,4.8,1202.0,https://www.coursera.org/specializations/inspired-leadership
+860,Principles of Photo Composition and Digital Image Post-Production,Arts and Humanities,Music and Art,Course,Intermediate,15.0,4.7,1200.0,https://www.coursera.org/learn/photo-composition?specialization=photography-basics
+861,Cybersecurity Capstone:  Breach Response Case Studies,Information Technology,Security,Course,Intermediate,15.0,4.8,1197.0,https://www.coursera.org/learn/ibm-cybersecurity-breach-case-studies?specialization=security-analyst-fundamentals
+862,Building Resilient Streaming Analytics Systems on Google Cloud,Information Technology,Cloud Computing,Course,Beginner,8.0,4.6,1197.0,https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-machine-learning
+863,Decentralized Finance (DeFi) Infrastructure,Business,Finance,Course,Beginner,6.0,4.8,1192.0,https://www.coursera.org/learn/decentralized-finance-infrastructure-duke?specialization=decentralized-finance-duke
+864,Core Java Specialization,Computer Science,Software Development,Specialization,Advanced,100.0,4.6,1182.0,https://www.coursera.org/specializations/core-java
+865,Design Patterns,Computer Science,Software Development,Course,Intermediate,15.0,4.7,1175.0,https://www.coursera.org/learn/design-patterns?specialization=software-design-architecture
+866,Adjectives and Adjective Clauses,Language Learning,Learning English,Course,Intermediate,24.0,4.8,1174.0,https://www.coursera.org/learn/adjective-clauses?specialization=intermediate-grammar
+867,"Smart Analytics, Machine Learning, and AI on Google Cloud",Information Technology,Cloud Computing,Course,Beginner,6.0,4.6,1174.0,https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp?specialization=gcp-data-machine-learning
+868,"Influencing: Storytelling, Change Management and Governance Specialization",Business,Leadership and Management,Specialization,Advanced,120.0,4.7,1173.0,https://www.coursera.org/specializations/influencing-storytelling-change-management
+869,Introducción a la Contabilidad Financiera,Business,Finance,Course,Intermediate,14.0,4.8,1172.0,https://www.coursera.org/learn/contabilidad-financiera?specialization=direccion-empresas
+870,Geospatial and Environmental Analysis,Physical Science and Engineering,Environmental Science and Sustainability,Course,Intermediate,13.0,4.8,1165.0,https://www.coursera.org/learn/spatial-analysis?specialization=gis
+871,Sample-based Learning Methods,Data Science,Machine Learning,Course,Intermediate,21.0,4.8,1165.0,https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning
+872,Exploratory Data Analysis for Machine Learning,Data Science,Machine Learning,Course,Intermediate,14.0,4.6,1164.0,https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning
+873,An Introduction to Interactive Programming in Python (Part 2),Computer Science,Software Development,Course,Intermediate,15.0,4.9,1159.0,https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals
+874,TensorFlow: Advanced Techniques Specialization,Data Science,Machine Learning,Specialization,Advanced,100.0,4.8,1157.0,https://www.coursera.org/specializations/tensorflow-advanced-techniques
+875,Drug Commercialization ,Health,Healthcare Management,Course,Beginner,12.0,4.7,1153.0,https://www.coursera.org/learn/drug-commercialization?specialization=drug-development-product-management
+876,Organisational behaviour: Know your people,Business,Leadership and Management,Course,Intermediate,19.0,4.8,1153.0,https://www.coursera.org/learn/organisational-behaviour-know-your-people?specialization=hr-management-leadership
+877,Engagement & Nurture Marketing Strategies,Business,Marketing,Course,Beginner,8.0,4.8,1152.0,https://www.coursera.org/learn/nurture-market-strategies?specialization=social-media-marketing
+878,International Business Essentials Specialization,Business,Business Essentials,Specialization,Advanced,140.0,4.5,1148.0,https://www.coursera.org/specializations/mba
+879,Advanced Manufacturing Process Analysis,Physical Science and Engineering,Mechanical Engineering,Course,Intermediate,13.0,4.6,1148.0,https://www.coursera.org/learn/advanced-manufacturing-process-analysis?specialization=digital-manufacturing-design-technology
+880,Process Mining: Data science in Action,Data Science,Data Analysis,Course,Intermediate,22.0,4.7,1146.0,https://www.coursera.org/learn/process-mining
+881,Data and Health Indicators in Public Health Practice,Health,Public Health,Course,Beginner,6.0,4.7,1146.0,https://www.coursera.org/learn/data-public-health?specialization=professional-epidemiology
+882,Story and Narrative Development for Video Games,Arts and Humanities,Music and Art,Course,Beginner,11.0,4.7,1144.0,https://www.coursera.org/learn/video-game-story?specialization=game-design
+883,Leading Healthcare Quality and Safety,Health,Healthcare Management,Course,Intermediate,13.0,4.8,1141.0,https://www.coursera.org/learn/quality-healthcare
+884,"App Deployment, Debugging, and Performance",Computer Science,Software Development,Course,Beginner,9.0,4.6,1141.0,https://www.coursera.org/learn/app-deployment-debugging-performance?specialization=developing-apps-gcp
+885,Human Resources Analytics,Business,Leadership and Management,Course,Beginner,5.0,4.6,1140.0,https://www.coursera.org/learn/human-resources-analytics
+886,Econometrics: Methods and Applications,Data Science,Probability and Statistics,Course,Intermediate,66.0,4.6,1137.0,https://www.coursera.org/learn/erasmus-econometrics
+887,Google UX Design (PT) Professional Certificate,Computer Science,Design and Product,Professional Certificate,Advanced,120.0,4.9,1137.0,https://www.coursera.org/professional-certificates/ux-design-do-google
+888,Securing Investment Returns in the Long Run,Business,Finance,Course,Beginner,7.0,4.8,1135.0,https://www.coursera.org/learn/investment-returns-long-run?specialization=investment-management
+889,Information​ ​Systems Specialization,Information Technology,Support and Operations,Specialization,Advanced,100.0,4.8,1133.0,https://www.coursera.org/specializations/information-systems
+890,The Art of Sales: Mastering the Selling Process Specialization,Business,Leadership and Management,Specialization,Advanced,80.0,4.7,1133.0,https://www.coursera.org/specializations/the-art-of-sales-mastering-the-selling-process
+891,Modern Big Data Analysis with SQL Specialization,Data Science,Data Analysis,Specialization,Advanced,80.0,4.8,1130.0,https://www.coursera.org/specializations/cloudera-big-data-analysis-sql
+892,Decentralized Applications (Dapps),Computer Science,Software Development,Course,Intermediate,17.0,4.5,1128.0,https://www.coursera.org/learn/decentralized-apps-on-blockchain?specialization=blockchain
+893,La gestión de los riesgos y la administración de los cambios en el proyecto,Business,Leadership and Management,Course,Beginner,7.0,4.8,1125.0,https://www.coursera.org/learn/presupuestos-proyecto?specialization=administracion-proyectos
+894,Brand New Brand,Arts and Humanities,Music and Art,Course,Intermediate,24.0,4.9,1125.0,https://www.coursera.org/learn/brand-new-brand?specialization=graphic-design
+895,Introduction to Chemistry:  Reactions and Ratios,Physical Science and Engineering,Chemistry,Course,Intermediate,18.0,4.7,1124.0,https://www.coursera.org/learn/intro-chemistry
+896,Web Design: Strategy and Information Architecture,Arts and Humanities,Music and Art,Course,Beginner,11.0,4.8,1124.0,https://www.coursera.org/learn/web-design-strategy?specialization=ui-ux-design
+897,Microsoft 365 Fundamentals Specialization,Business,Business Essentials,Specialization,Advanced,100.0,4.7,1123.0,https://www.coursera.org/specializations/microsoft-365-fundamentals
+898,Driving business towards the Sustainable Development Goals,Business,Business Essentials,Course,Intermediate,15.0,4.8,1121.0,https://www.coursera.org/learn/sdgbusiness
+899,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",Business,Finance,Course,Intermediate,16.0,4.6,1121.0,https://www.coursera.org/learn/advanced-valuation-and-strategy
+900,Electric Industry Operations and Markets,Physical Science and Engineering,Environmental Science and Sustainability,Course,Beginner,7.0,4.8,1117.0,https://www.coursera.org/learn/electricity
+901,Entrepreneurship 4: Financing and Profitability,Business,Entrepreneurship,Course,Beginner,6.0,4.8,1106.0,https://www.coursera.org/learn/wharton-entrepreneurship-financing-profitabilty?specialization=wharton-entrepreneurship
+902,Six Sigma Advanced Define and Measure Phases,Business,Leadership and Management,Course,Intermediate,15.0,4.7,1106.0,https://www.coursera.org/learn/six-sigma-define-measure-advanced?specialization=six-sigma-green-belt
+903,Strategic Innovation: Building and Sustaining Innovative Organizations,Business,Marketing,Course,Intermediate,14.0,4.8,1105.0,https://www.coursera.org/learn/strategic-innovation-building-and-sustaining-innovative-organizations?specialization=innovation-creativity-entrepreneurship
+904,FinTech and the Transformation in Financial Services,Business,Leadership and Management,Course,Intermediate,19.0,4.3,1104.0,https://www.coursera.org/learn/fintech-transformation-financial-services?specialization=digital-transformation-financial-services
+905,Python Data Representations,Computer Science,Software Development,Course,Beginner,8.0,4.7,1100.0,https://www.coursera.org/learn/python-representation?specialization=introduction-scripting-in-python
+906,IBM Machine Learning Professional Certificate,Data Science,Machine Learning,Professional Certificate,Advanced,200.0,4.6,1100.0,https://www.coursera.org/professional-certificates/ibm-machine-learning
+907,"Unsupervised Learning, Recommenders, Reinforcement Learning",Data Science,Machine Learning,Course,Intermediate,27.0,4.9,1099.0,https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning
+908,Business English Specialization,Language Learning,Learning English,Specialization,Advanced,120.0,4.7,1095.0,https://www.coursera.org/specializations/english-for-business
+909,Sports Marketing,Business,Marketing,Course,Intermediate,13.0,4.7,1094.0,https://www.coursera.org/learn/sports-marketing
+910,Procurement & Sourcing Introduction,Business,Leadership and Management,Course,Beginner,4.0,4.7,1094.0,https://www.coursera.org/learn/procurement-sourcing-introduction?specialization=procurement-sourcing
+911,What is news? ,Arts and Humanities,Music and Art,Course,Intermediate,16.0,4.7,1093.0,https://www.coursera.org/learn/what-is-news?specialization=become-a-journalist
+912,"Introduction to Web Development with HTML, CSS, JavaScript",Computer Science,Mobile and Web Development,Course,Beginner,12.0,4.5,1093.0,https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript
+913,Satisfaction Guaranteed: Develop Customer Loyalty Online,Business,Marketing,Course,Intermediate,26.0,4.8,1092.0,https://www.coursera.org/learn/satisfaction-guaranteed
+914,Creative Writing: The Craft of Style,Arts and Humanities,Music and Art,Course,Beginner,7.0,4.7,1092.0,https://www.coursera.org/learn/craft-of-style?specialization=creative-writing
+915,Business English: Basics,Language Learning,Learning English,Course,Intermediate,20.0,4.5,1091.0,https://www.coursera.org/learn/business-english?specialization=business-english-speakers
+916,Applied AI with DeepLearning,Data Science,Machine Learning,Course,Intermediate,25.0,4.4,1090.0,https://www.coursera.org/learn/ai?specialization=advanced-data-science-ibm
+917,Introduction to Ableton Live,Arts and Humanities,Music and Art,Course,Intermediate,13.0,4.8,1085.0,https://www.coursera.org/learn/ableton-live?specialization=songwriting
+918,Customer Segmentation and Prospecting,Business,Business Essentials,Course,Beginner,12.0,4.7,1082.0,https://www.coursera.org/learn/customer-segmentation-prospecting
+919,Embedding Sensors and Motors Specialization,Physical Science and Engineering,Electrical Engineering,Specialization,Advanced,100.0,4.6,1082.0,https://www.coursera.org/specializations/embedding-sensors-motors
+920,Corporate & Commercial Law I: Contracts & Employment Law,Business,Business Essentials,Course,Intermediate,23.0,4.8,1081.0,https://www.coursera.org/learn/corporate-commercial-law-part1
+921,"Positive Psychology: Character, Grit and Research Methods",Health,Psychology,Course,Intermediate,23.0,4.4,1080.0,https://www.coursera.org/learn/positive-psychology-methods?specialization=positivepsychology
+922,Intellectual Property Law Specialization,Business,Business Strategy,Specialization,Advanced,80.0,4.8,1078.0,https://www.coursera.org/specializations/introduction-intellectual-property
+923,Corporate Finance I: Measuring and Promoting Value Creation,Business,Finance,Course,Intermediate,23.0,4.7,1077.0,https://www.coursera.org/learn/corporate-finance-measure-success?specialization=financial-management
+924,Modeling and Design for Mechanical Engineers with Autodesk Fusion 360,Physical Science and Engineering,Mechanical Engineering,Course,Intermediate,18.0,4.8,1076.0,https://www.coursera.org/learn/modeling-design-mechanical-engineers?specialization=autodesk-cad-cam-cae-mechanical-engineering
+925,IBM AI Foundations for Business Specialization,Data Science,Machine Learning,Specialization,Intermediate,40.0,4.7,1076.0,https://www.coursera.org/specializations/ibm-ai-foundations-for-business
+926,"Photography Techniques: Light, Content, and Sharing",Arts and Humanities,Music and Art,Course,Intermediate,23.0,4.8,1074.0,https://www.coursera.org/learn/photography-techniques?specialization=photography-basics
+927,Introduction to FPGA Design for Embedded Systems,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,18.0,4.6,1074.0,https://www.coursera.org/learn/intro-fpga-design-embedded-systems?specialization=fpga-design
+928,Advanced Content and Social Tactics to Optimize SEO,Business,Marketing,Course,Intermediate,17.0,4.6,1074.0,https://www.coursera.org/learn/seo-tactics?specialization=seo
+929,"Content, Advertising & Social IMC",Business,Marketing,Course,Beginner,8.0,4.7,1072.0,https://www.coursera.org/learn/social-imc?specialization=social-media-marketing
+930,Sensors and Sensor Circuit Design,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,31.0,4.6,1064.0,https://www.coursera.org/learn/sensors-circuit-interface?specialization=embedding-sensors-motors
+931,"Engineering Project Management: Risk, Quality, Teams, and Procurement",Business,Leadership and Management,Course,Intermediate,16.0,4.8,1060.0,https://www.coursera.org/learn/project-risk-quality-management?specialization=engineering-project-management
+932,Leadership Communication for Maximum Impact: Storytelling,Business,Leadership and Management,Course,Beginner,3.0,4.5,1060.0,https://www.coursera.org/learn/leadership-storytelling?specialization=organizational-leadership
+933,Foundations for Big Data Analysis with SQL,Data Science,Data Analysis,Course,Beginner,11.0,4.8,1057.0,https://www.coursera.org/learn/foundations-big-data-analysis-sql?specialization=cloudera-big-data-analysis-sql
+934,"Managing ADHD, Autism, Learning Disabilities, and Concussion in School",Health,Patient Care,Course,Beginner,9.0,4.8,1056.0,https://www.coursera.org/learn/managing-adhd-autism-learning-disabilities-and-concussion-in-school?specialization=school-health-for-children-and-adolescents
+935,Six Sigma Tools for Improve and Control,Business,Business Essentials,Course,Beginner,8.0,4.7,1056.0,https://www.coursera.org/learn/six-sigma-improve-control?specialization=six-sigma-fundamentals
+936,IELTS Preparation Specialization,Language Learning,Learning English,Specialization,Intermediate,60.0,4.6,1053.0,https://www.coursera.org/specializations/ielts-preparation
+937,Channel Management and Retailing ,Business,Marketing,Course,Beginner,9.0,4.5,1051.0,https://www.coursera.org/learn/channel-management?specialization=marketing-mix
+938,What is Compliance?,Business,Business Essentials,Course,Beginner,10.0,4.8,1049.0,https://www.coursera.org/learn/what-is-compliance
+939,Trading Algorithms,Business,Finance,Course,Beginner,12.0,4.6,1047.0,https://www.coursera.org/learn/trading-algorithm?specialization=trading-strategy
+940,Weight Management: Beyond Balancing Calories,Health,Nutrition,Course,Intermediate,17.0,4.7,1042.0,https://www.coursera.org/learn/weight-management-beyond-balancing-calories
+941,Managing Security in Google Cloud,Information Technology,Cloud Computing,Course,Beginner,7.0,4.7,1041.0,https://www.coursera.org/learn/managing-security-in-google-cloud-platform?specialization=security-google-cloud-platform
+942,Corporate Strategy,Business,Business Strategy,Course,Beginner,10.0,4.7,1039.0,https://www.coursera.org/learn/corporate-strategy?specialization=strategic-leadership
+943,Effective Business Presentations with Powerpoint,Business,Business Essentials,Course,Beginner,10.0,4.5,1037.0,https://www.coursera.org/learn/powerpoint-presentations?specialization=pwc-analytics
+944,Building Database Applications in PHP,Computer Science,Mobile and Web Development,Course,Intermediate,24.0,4.9,1031.0,https://www.coursera.org/learn/database-applications-php?specialization=web-applications
+945,Integrative Health and Medicine Specialization,Health,Patient Care,Specialization,Advanced,140.0,4.8,1026.0,https://www.coursera.org/specializations/integrative-health-and-medicine
+946,Entrepreneurship I: Laying the Foundation,Business,Entrepreneurship,Course,Intermediate,18.0,4.8,1024.0,https://www.coursera.org/learn/entrepreneurship-1?specialization=innovation-creativity-entrepreneurship
+947,AI in Healthcare Specialization,Data Science,Machine Learning,Specialization,Advanced,180.0,4.7,1023.0,https://www.coursera.org/specializations/ai-healthcare
+948,Conflict Management Specialization,Business,Leadership and Management,Specialization,Advanced,80.0,4.5,1023.0,https://www.coursera.org/specializations/conflict-management
+949,Computer Security and Systems Management Specialization,Information Technology,Security,Specialization,Advanced,100.0,4.7,1023.0,https://www.coursera.org/specializations/computer-security-systems-management
+950,Algorithms on Strings,Computer Science,Algorithms,Course,Intermediate,18.0,4.5,1022.0,https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms
+951,Organizational Behavior: How to Manage People,Business,Leadership and Management,Course,Intermediate,14.0,4.7,1021.0,https://www.coursera.org/learn/managing-people-iese?specialization=foundations-management
+952,"Ready, Set, Future! Introduction to Futures Thinking",Business,Business Essentials,Course,Beginner,11.0,4.8,1021.0,https://www.coursera.org/learn/introduction-to-futures-thinking?specialization=futures-thinking
+953,Introduction to Agile Development and Scrum,Computer Science,Software Development,Course,Beginner,9.0,4.9,1019.0,https://www.coursera.org/learn/agile-development-and-scrum
+954,Competitive Strategy and Organization Design Specialization,Business,Business Strategy,Specialization,Advanced,140.0,4.8,1019.0,https://www.coursera.org/specializations/competitive-strategy
+955,Advanced Business Strategy,Business,Business Strategy,Course,Beginner,10.0,4.8,1018.0,https://www.coursera.org/learn/uva-darden-advanced-business-strategy?specialization=business-strategy
+956,Networking in Google Cloud: Hybrid Connectivity and Network Management,Information Technology,Networking,Course,Beginner,7.0,4.8,1018.0,https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management?specialization=networking-google-cloud-platform
+957,Firm Level Economics: Markets and Allocations,Business,Finance,Course,Intermediate,18.0,4.9,1017.0,https://www.coursera.org/learn/firm-level-economics-markets?specialization=managerial-economics-business-analysis
+958,"Data Warehouse Concepts, Design, and Data Integration",Computer Science,Design and Product,Course,Intermediate,57.0,4.4,1016.0,https://www.coursera.org/learn/dwdesign?specialization=data-warehousing
+959,Google Project Management (PT) Professional Certificate,Business,Leadership and Management,Professional Certificate,Advanced,120.0,4.9,1015.0,https://www.coursera.org/professional-certificates/gestao-de-projetos-do-google
+960,Robotics: Computational Motion Planning,Physical Science and Engineering,Mechanical Engineering,Course,Beginner,11.0,4.3,1010.0,https://www.coursera.org/learn/robotics-motion-planning?specialization=robotics
+961,Energy: The Enterprise,Physical Science and Engineering,Electrical Engineering,Course,Intermediate,17.0,4.7,1010.0,https://www.coursera.org/learn/energy-industry-overview?specialization=energy-industry
+962,Computational Neuroscience,Data Science,Machine Learning,Course,Intermediate,26.0,4.6,1010.0,https://www.coursera.org/learn/computational-neuroscience
+963,Natural Language Processing with Sequence Models,Data Science,Machine Learning,Course,Intermediate,24.0,4.5,1006.0,https://www.coursera.org/learn/sequence-models-in-nlp
+964,Blockchain Platforms,Computer Science,Software Development,Course,Intermediate,16.0,4.6,1004.0,https://www.coursera.org/learn/blockchain-platforms?specialization=blockchain
+965,The Technology of Music Production,Arts and Humanities,Music and Art,Course,Intermediate,19.0,4.8,986.0,https://www.coursera.org/learn/technology-of-music-production?specialization=electronic-music-production
+966,Orden y manejo del tiempo,Business,Leadership and Management,Course,Beginner,8.0,4.8,985.0,https://www.coursera.org/learn/orden?specialization=habilidades
+967,Bioinformatics Specialization,Health,Health Informatics,Specialization,Advanced,180.0,4.4,985.0,https://www.coursera.org/specializations/bioinformatics
+968,Introduction to Research for Essay Writing,Arts and Humanities,Music and Art,Course,Intermediate,19.0,4.7,979.0,https://www.coursera.org/learn/introduction-to-research-for-essay-writing?specialization=academic-english
+969,The Fundamentals of Revenue Management: The Cornerstone of Revenue Strategy,Business,Business Strategy,Course,Beginner,11.0,4.6,979.0,https://www.coursera.org/learn/fundamentals-of-revenue-management?specialization=hotel-management
+970,Marketing Mix Fundamentals,Business,Marketing,Course,Beginner,9.0,4.6,976.0,https://www.coursera.org/learn/marketing-mix?specialization=marketing-strategy
+971,Exploring and Producing Data for Business Decision Making,Business,Business Essentials,Course,Intermediate,23.0,4.8,972.0,https://www.coursera.org/learn/business-data?specialization=managerial-economics-business-analysis
+972,Fundamentals of Accounting  Specialization,Business,Business Essentials,Specialization,Advanced,120.0,4.6,970.0,https://www.coursera.org/specializations/accounting-fundamentals
+973,Machine Learning for Trading Specialization,Data Science,Machine Learning,Specialization,Intermediate,60.0,3.9,967.0,https://www.coursera.org/specializations/machine-learning-trading
+974,Supply Chain Management Strategy,Business,Business Strategy,Course,Intermediate,13.0,4.8,962.0,https://www.coursera.org/learn/supply-chain-management-strategy?specialization=supply-chain-management
+975,Types of Conflict,Business,Business Essentials,Course,Beginner,5.0,4.5,962.0,https://www.coursera.org/learn/types-of-conflict?specialization=conflict-management
+976,EMT Foundations,Health,Patient Care,Course,Intermediate,14.0,4.8,961.0,https://www.coursera.org/learn/emt-foundations?specialization=become-an-emt
+977,Construction Finance,Business,Business Strategy,Course,Intermediate,17.0,4.8,960.0,https://www.coursera.org/learn/construction-finance?specialization=construction-management
+978,Introduction to Programming with Python and Java Specialization,Computer Science,Software Development,Specialization,Advanced,80.0,4.4,960.0,https://www.coursera.org/specializations/programming-python-java
+979,Finding Hidden Messages in DNA (Bioinformatics I),Health,Health Informatics,Course,Intermediate,15.0,4.3,955.0,https://www.coursera.org/learn/dna-analysis?specialization=bioinformatics
+980,Pricing Strategy,Business,Marketing,Course,Intermediate,14.0,4.6,953.0,https://www.coursera.org/learn/pricing-strategy?specialization=marketing-mix
+981,Creating Dashboards and Storytelling with Tableau,Data Science,Data Analysis,Course,Intermediate,14.0,4.6,948.0,https://www.coursera.org/learn/dataviz-dashboards?specialization=data-visualization
+982,Intro to International Marketing,Business,Marketing,Course,Beginner,7.0,4.7,948.0,https://www.coursera.org/learn/intro-international-marketing?specialization=international-marketing
+983,Introduction to Computer Science and Programming Specialization,Computer Science,Software Development,Specialization,Advanced,80.0,4.2,946.0,https://www.coursera.org/specializations/introduction-computer-science-programming
+984,Conflict Resolution Skills,Business,Business Essentials,Course,Beginner,4.0,4.4,938.0,https://www.coursera.org/learn/conflict-resolution-skills?specialization=conflict-management
+985,Software Product Management Capstone,Computer Science,Design and Product,Course,Intermediate,19.0,4.8,938.0,https://www.coursera.org/learn/software-product-management-capstone?specialization=product-management
+986,Hypothesis-Driven Development,Computer Science,Design and Product,Course,Beginner,10.0,4.7,933.0,https://www.coursera.org/learn/uva-darden-agile-testing?specialization=uva-darden-digital-product-management
+987,Entrepreneurship: Growing Your Business Specialization,Business,Business Strategy,Specialization,Advanced,80.0,4.8,932.0,https://www.coursera.org/specializations/entrepreneurship-growing-your-business
+988,Digital Competition in Financial Services,Business,Business Strategy,Course,Beginner,11.0,4.6,930.0,https://www.coursera.org/learn/digital-competition-financial-services?specialization=digital-transformation-financial-services
+989,Text Retrieval and Search Engines,Data Science,Data Analysis,Course,Intermediate,30.0,4.5,930.0,https://www.coursera.org/learn/text-retrieval?specialization=data-mining
+990,Data Engineering Foundations Specialization,Information Technology,Data Management,Specialization,Advanced,100.0,4.7,922.0,https://www.coursera.org/specializations/data-engineering-foundations
+991,"Functions, Methods, and Interfaces in Go",Computer Science,Software Development,Course,Beginner,8.0,4.6,921.0,https://www.coursera.org/learn/golang-functions-methods?specialization=google-golang
+992,Character Design for Video Games,Arts and Humanities,Music and Art,Course,Beginner,9.0,4.7,921.0,https://www.coursera.org/learn/game-character-design?specialization=game-design
+993,"Anatomy: Cardiovascular, Respiratory and Urinary Systems",Health,Basic Science,Course,Intermediate,18.0,4.8,919.0,https://www.coursera.org/learn/anatomy403-2x?specialization=anatomy
+994,Business English: Meetings,Language Learning,Learning English,Course,Intermediate,23.0,4.8,919.0,https://www.coursera.org/learn/business-english-meetings?specialization=business-english
+995,Essentials in Clinical Simulations Across the Health Professions,Health,Healthcare Management,Course,Beginner,12.0,4.8,917.0,https://www.coursera.org/learn/clinicalsimulations
+996,Introduction to Graph Theory,Computer Science,Algorithms,Course,Intermediate,20.0,4.5,917.0,https://www.coursera.org/learn/graphs?specialization=discrete-mathematics
+997,Introduction to Computer Vision and Image Processing,Data Science,Machine Learning,Course,Intermediate,21.0,4.4,915.0,https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+998,Market Research Specialization,Business,Marketing,Specialization,Advanced,80.0,4.5,914.0,https://www.coursera.org/specializations/market-research
+999,Architecting with Google Kubernetes Engine: Production,Computer Science,Software Development,Course,Beginner,11.0,4.7,913.0,https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production?specialization=architecting-google-kubernetes-engine
